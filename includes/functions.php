@@ -27,7 +27,7 @@ function comprobarDisponibilidad($numeroDecasa)
     $conn->close();
 }
 
-function displayEstadoAtribute($numeroDecasa){
+function displayEstadoAtribute($numeroDecasa, $numeroDeProyecto){
 // Create connection
     $conn = new mysqli(DB_SERVER, DB_USER, DB_PASS, DB_NAME);
 // Check connection
@@ -35,7 +35,7 @@ function displayEstadoAtribute($numeroDecasa){
         die("Connection failed: " . $conn->connect_error);
     }
 
-    $sql = "SELECT * FROM casa   WHERE numero_casa =".$numeroDecasa;
+    $sql = "SELECT * FROM casa   WHERE numero_casa ='".$numeroDecasa."' AND proyecto_id ='".$numeroDeProyecto."'";
     $result = $conn->query($sql);
 
     if ($result->num_rows > 0) {
@@ -51,7 +51,7 @@ function displayEstadoAtribute($numeroDecasa){
 }
 
 
-function displayProyectoAtribute($numeroDecasa){
+function displayProyectoAtribute($numeroDeProyecto){
 // Create connection
     $conn = new mysqli(DB_SERVER, DB_USER, DB_PASS, DB_NAME);
 // Check connection
@@ -59,13 +59,13 @@ function displayProyectoAtribute($numeroDecasa){
         die("Connection failed: " . $conn->connect_error);
     }
 
-    $sql = "SELECT * FROM casa   WHERE numero_casa =".$numeroDecasa;
+    $sql = "SELECT * FROM proyecto   WHERE id =".$numeroDeProyecto;
     $result = $conn->query($sql);
 
     if ($result->num_rows > 0) {
         // output data of each row
         while($row = $result->fetch_assoc()) {
-            echo $row["proyecto"];
+            echo $row["nombre"];
         }
     } else {
         echo "0 results";

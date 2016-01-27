@@ -20,7 +20,7 @@ while($row = $result->fetch_array(MYSQLI_NUM)){
 ?>
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -45,7 +45,8 @@ while($row = $result->fetch_array(MYSQLI_NUM)){
 <nav class="navbar navbar-inverse navbar-fixed-top">
     <div class="container">
         <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar"
+                    aria-expanded="false" aria-controls="navbar">
                 <span class="sr-only">Toggle navigation</span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
@@ -72,420 +73,832 @@ while($row = $result->fetch_array(MYSQLI_NUM)){
     </div>
 
 
-
-<!--SVG MAP-->
-    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1200px"
+    <!--SVG MAP-->
+    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+         width="1200px"
          height="2676px" viewBox="0 0 1200 2676" enable-background="new 0 0 1200 2676" xml:space="preserve">
 <g id="clickBoxes">
 
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		764.327,2385.048 764.609,2306.756 611.558,2306.19 611.555,2364.839 703.277,2365.121 	" id="choacorral11_1" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		764.893,2253.193 611.84,2252.628 611.558,2306.19 764.609,2306.756 	" id="choacorral11_2" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		765.033,2199.634 611.98,2199.068 611.84,2252.628 764.893,2253.193 	" id="choacorral11_3" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		765.176,2146.071 612.264,2145.506 611.98,2199.068 765.033,2199.634 	" id="choacorral11_4" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		765.458,2092.51 612.403,2091.942 612.264,2145.506 765.176,2146.071 	" id="choacorral11_5" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		765.599,2038.947 612.545,2038.383 612.403,2091.942 765.458,2092.51 	" id="choacorral11_6" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		765.741,1985.526 612.829,1984.961 612.545,2038.383 765.599,2038.947 	" id="choacorral11_7" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		766.021,1931.965 612.97,1931.401 612.829,1984.961 765.741,1985.526 	" id="choacorral11_8" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		766.164,1878.404 613.252,1877.839 612.97,1931.401 766.021,1931.965 	" id="choacorral11_9" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		766.447,1824.842 613.394,1824.276 613.252,1877.839 766.447,1877.839 	" id="choacorral11_10" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		766.588,1771.28 613.534,1770.715 613.394,1824.276 766.447,1824.842 	" id="choacorral11_11" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		766.73,1717.718 613.816,1717.154 613.534,1770.715 766.588,1771.28 	" id="choacorral11_12"class="casa" ></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		767.013,1664.158 613.958,1663.592 613.816,1717.154 766.73,1717.718 	" id="choacorral11_13" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		767.153,1610.595 614.241,1610.029 613.958,1663.592 767.013,1664.158 	" id="choacorral11_14" class="casa"></polygon>
-
-    <rect x="614.382" y="1533.855" transform="matrix(1 0.0037 -0.0037 1 5.7977 -2.5349)" fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="152.914" height="76.457" id="choacorral11_15" class="casa"></rect>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		537.219,1728.743 537.502,1675.178 384.448,1674.614 384.307,1728.177 	" id="choacorral11_16" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		537.077,1782.305 537.219,1728.743 384.307,1728.177 384.448,1782.305 	" id="choacorral11_17" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		536.796,1835.865 537.077,1782.305 384.448,1782.305 384.024,1835.865 	" id="choacorral11_18" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		536.654,1889.427 536.796,1835.865 384.024,1835.865 383.601,1888.861 	" id="choacorral11_19" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		536.513,1942.989 536.654,1889.427 383.601,1888.861 383.459,1942.424 	" id="choacorral11_20" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		536.229,1996.552 536.513,1942.989 383.459,1942.424 383.318,1995.986 	" id="choacorral11_21" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		536.089,2050.111 536.229,1996.552 383.318,1995.986 383.318,2050.111 	" id="choacorral11_22" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		535.806,2103.674 536.089,2050.111 383.318,2050.111 382.894,2103.108 	" id="choacorral11_23" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		535.665,2157.236 535.806,2103.674 382.894,2103.108 382.894,2157.236 	" id="choacorral11_24" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		535.523,2210.799 535.665,2157.236 382.894,2157.236 382.894,2210.799 	" id="choacorral11_25" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		535.241,2264.359 535.523,2210.799 382.894,2210.799 382.329,2263.795 	" id="choacorral11_26" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		535.1,2317.922 535.241,2264.359 382.47,2264.359 381.623,2317.922 	" id="choacorral11_27" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		534.816,2371.341 535.1,2317.922 381.623,2317.922 381.905,2370.777 	" id="choacorral11_28" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		534.676,2424.903 534.816,2371.341 381.905,2370.777 381.621,2424.903 	" id="choacorral11_29" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		932.22,2450.058 932.785,2337.565 779.873,2336.999 779.873,2390.138 823.826,2404.551 904.944,2449.918 	" id="choacorral10_2" class="casa" ></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		933.068,2284.002 780.014,2283.437 779.873,2336.999 932.785,2337.565 	" id="choacorral10_4" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		933.209,2230.439 780.156,2229.876 780.014,2283.437 933.068,2284.002 	" id="choacorral10_6" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		933.352,2176.88 780.438,2176.314 780.2,2229.219 933.209,2230.439 	" id="choacorral10_8" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		933.635,2123.458 780.579,2122.893 780.438,2176.314 933.352,2176.88 	" id="choacorral10_10" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		933.775,2069.898 780.862,2069.333 780.579,2122.893 933.775,2122.893 	" id="choacorral10_12" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		934.059,2016.336 781.003,2015.77 780.862,2069.333 933.775,2069.898 	" id="choacorral10_14" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		934.199,1962.773 781.146,1962.207 781.003,2015.77 934.059,2016.336 	" id="choacorral10_16" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		934.342,1909.211 781.428,1908.646 781.146,1962.207 934.199,1962.773 	" id="choacorral10_18" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		934.622,1855.648 781.568,1855.085 781.428,1908.646 934.342,1909.211 	" id="choacorral10_20" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		934.765,1802.089 781.852,1801.522 781.568,1855.085 934.622,1855.648 	" id="choacorral10_22" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		934.765,1748.526 781.991,1747.961 781.852,1801.522 934.765,1802.089 	" id="choacorral10_24" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		935.188,1694.964 782.135,1694.398 781.991,1747.961 934.765,1748.526 	" id="choacorral10_26" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		935.33,1641.404 782.418,1640.838 782.135,1694.398 935.188,1694.964 	" id="choacorral10_28" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		935.611,1587.842 782.559,1587.276 782.418,1640.838 935.33,1641.404 	" id="choacorral10_30" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		935.753,1496.121 782.983,1495.556 782.559,1587.276 935.611,1587.842 	" id="choacorral10_32" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		1154.522,2383.919 1001.47,2383.353 1001.187,2454.297 1154.239,2454.863 	" id="choacorral10_1" class="casa" estado="<?php displayEstadoAtribute(1)?>" proyecto="<?php displayProyectoAtribute(1)?>"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		1154.805,2312.833 1001.752,2312.268 1001.47,2383.353 1154.522,2383.919 	" id="choacorral10_3" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		1154.948,2259.271 1001.893,2258.705 1001.752,2312.268 1154.805,2312.268 	" id="choacorral10_5" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		1155.089,2205.708 1002.176,2205.143 1001.893,2258.705 1154.948,2259.271 	" id="choacorral10_7" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		1155.372,2152.146 1002.316,2151.58 1002.176,2205.143 1155.089,2205.708 	" id="choacorral10_9" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		1155.514,2098.727 1002.599,2098.161 1002.316,2151.58 1155.372,2152.146 	" id="choacorral10_11" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		1155.795,2045.164 1002.741,2044.598 1002.599,2098.161 1155.514,2098.727 	" id="choacorral10_13" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		1155.938,1991.602 1002.882,1991.037 1002.741,2044.598 1155.795,2045.164 	" id="choacorral10_15" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		1156.078,1938.042 1003.164,1937.476 1002.882,1991.037 1155.938,1991.602 	" id="choacorral10_17" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		1156.36,1884.479 1003.308,1883.913 1003.164,1937.476 1156.078,1938.042 	" id="choacorral10_19" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		1156.501,1830.917 1003.589,1830.352 1003.308,1883.913 1156.36,1884.479 	" id="choacorral10_21" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		1156.783,1777.354 1003.731,1776.791 1003.589,1830.352 1156.501,1830.917 	" id="choacorral10_23" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		1156.926,1723.794 1003.871,1723.229 1003.731,1776.791 1156.783,1777.354 	" id="choacorral10_25" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		1157.066,1670.232 1004.154,1669.667 1003.871,1723.229 1156.926,1723.794 	" id="choacorral10_27" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		1157.35,1616.67 1004.295,1616.104 1004.154,1669.667 1157.066,1670.232 	" id="choacorral10_29" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		1157.35,1563.108 1004.578,1562.545 1004.295,1616.104 1157.35,1616.67 	" id="choacorral10_31" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		1157.772,1509.548 1004.72,1508.982 1004.578,1562.545 1157.35,1563.108 	" id="choacorral10_33" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		1157.915,1455.985 1005.144,1455.985 1004.72,1508.982 1157.772,1509.548 	" id="choacorral10_34" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		1158.056,1402.423 1005.144,1401.856 1005.144,1455.985 1157.915,1455.985 	" id="choacorral10_35" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		1158.338,1348.86 1005.283,1348.438 1005.144,1401.856 1158.056,1402.423 	" id="choacorral10_36" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		1158.48,1295.44 1005.566,1294.876 1005.283,1348.438 1158.338,1348.86 	" id="choacorral10_37" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		1158.762,1241.88 1005.709,1241.314 1005.566,1294.876 1158.48,1295.44 	" id="choacorral10_38" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		1158.904,1188.317 1005.85,1187.753 1005.709,1241.314 1158.762,1241.88 	" id="choacorral10_39" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		1159.044,1134.757 1006.132,1134.189 1005.85,1187.753 1158.904,1188.317 	" id="choacorral10_41" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		1159.327,1081.193 1006.274,1080.911 1006.132,1134.189 1159.044,1134.757 	" id="choacorral10_43" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		1159.47,1027.632 1006.556,1027.066 1006.274,1080.911 1159.327,1081.193 	" id="choacorral10_45" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		1159.75,974.07 1006.697,973.506 1006.556,1027.066 1159.47,1027.632 	" id="choacorral10_47" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		1159.893,920.509 1006.838,919.943 1006.697,973.506 1159.75,974.07 	" id="choacorral10_49" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		1160.033,866.946 1007.121,866.382 1006.838,919.943 1159.893,920.509 	" id="choacorral10_51" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		1160.317,813.386 1007.265,812.82 1007.121,866.382 1160.033,866.946 	" id="choacorral10_53" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		1160.46,759.823 1007.404,759.259 1007.265,812.82 1160.317,813.386 	" id="choacorral10_55" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		1160.74,706.263 1007.688,705.695 1007.404,759.259 1160.46,759.823 	" id="choacorral10_57" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		1160.883,652.7 1007.828,652.135 1007.688,705.695 1160.74,706.263 	" id="choacorral10_59" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		1161.023,599.138 1008.111,598.572 1007.828,652.135 1160.883,652.7 	" id="choacorral10_61" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		1161.306,545.717 1008.254,545.153 1008.111,598.572 1161.023,599.138 	" id="choacorral10_63" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		936.885,1243.858 937.165,1168.957 784.113,1168.392 783.973,1221.952 	" id="choacorral10_40" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		937.308,1115.395 784.253,1114.829 784.113,1168.392 937.165,1168.957 	" id="choacorral10_42" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		937.448,1061.833 784.536,1061.269 784.253,1114.829 937.308,1115.395 	" id="choacorral10_44" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		937.731,1008.271 784.679,1007.706 784.536,1061.269 937.448,1061.833 	" id="choacorral10_46" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		937.873,954.709 784.961,954.145 784.679,1007.706 937.731,1008.271 	" id="choacorral10_48" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		938.154,901.148 785.102,900.583 784.961,954.145 937.873,954.709 	" id="choacorral10_50" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		938.297,847.586 785.242,847.021 785.102,900.583 938.154,901.148 	" id="choacorral10_52" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		938.438,794.167 785.525,793.6 785.242,847.021 938.297,847.586 	" id="choacorral10_54" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		938.72,740.604 785.667,740.039 785.525,793.6 938.438,794.167 	" id="choacorral10_56" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		938.863,687.042 785.95,686.477 785.667,740.039 938.72,740.604 	" id="choacorral10_58" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		939.143,633.48 786.091,632.915 785.95,686.477 938.863,687.042 	" id="choacorral10_60" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		939.143,579.919 786.23,579.354 786.091,632.915 939.143,633.48 	" id="choacorral10_62" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		939.569,503.885 786.514,503.321 786.23,579.354 939.143,579.919 	" id="choacorral10_64" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		768.568,1219.7 768.85,1145.921 615.936,1145.355 615.654,1197.786 	" id="choacorral11w_1" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		769.132,1092.359 616.077,1091.794 615.936,1145.355 768.85,1145.921 	" id="choacorral11w_2" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		769.274,1038.798 616.361,1038.233 616.077,1091.794 769.132,1092.359 	" id="choacorral11w_3" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		769.415,985.236 616.503,984.671 616.361,1038.233 769.274,1038.798 	" id="choacorral11w_4" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		769.697,931.674 616.645,931.108 616.503,984.671 769.415,985.236 	" id="choacorral11w_5" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		769.838,878.113 616.927,877.548 616.645,931.108 769.697,931.674 	" id="choacorral11w_6" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		770.121,824.551 617.068,823.985 616.927,877.548 769.838,878.113 	" id="choacorral11w_7" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		770.264,770.99 617.351,770.424 617.068,823.985 770.121,824.551 	" id="choacorral11w_8" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		770.403,717.427 617.491,716.861 617.351,770.424 770.264,770.99 	" id="choacorral11w_9" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		770.687,663.865 617.633,663.3 617.491,716.861 770.403,717.427 	" id="choacorral11w_10" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		770.827,610.304 617.916,609.738 617.633,663.3 770.687,663.865 	" id="choacorral11w_11" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		771.109,556.742 618.058,556.177 617.916,609.738 770.827,610.304 	" id="choacorral11w_12" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		771.252,503.18 618.197,502.614 618.058,556.177 771.109,556.742 	" id="choacorral11w_13" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		771.393,449.619 618.48,449.053 618.197,502.614 771.252,503.18 	" id="choacorral11w_14" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		771.676,396.198 618.622,395.632 618.48,449.053 771.393,449.619 	" id="choacorral11w_15" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		554.886,1098.718 402.115,1098.718 401.69,1151.714 554.603,1189.025 	" id="choacorral11wA1_1" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		555.027,1045.155 402.115,1044.591 402.115,1098.718 554.886,1098.718 	" id="choacorral11wA1_2" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		555.31,991.595 402.255,991.028 402.115,1044.591 555.027,1045.155 	" id="choacorral11wA1_3" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		555.45,938.032 402.396,937.468 402.255,991.028 555.31,991.595 	" id="choacorral11wA1_4" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		555.592,884.471 402.68,883.905 402.396,937.468 555.45,938.032 	" id="choacorral11wA1_5" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		555.874,830.909 402.821,830.343 402.68,883.905 555.592,884.471 	" id="choacorral11wA1_6" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		556.016,777.348 403.104,776.781 402.821,830.343 555.874,830.909 	" id="choacorral11wA1_7" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		556.3,723.926 403.245,723.361 403.104,776.781 556.016,777.348 	" id="choacorral11wA1_9" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		556.44,670.365 403.104,670.365 403.245,723.361 556.3,723.926 	" id="choacorral11wA1_9" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		556.582,616.803 403.668,616.237 403.104,670.365 556.44,670.365 	" id="choacorral11wA1_10" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		556.864,563.242 403.81,562.676 403.668,616.237 556.582,616.803 	" id="choacorral11wA1_11" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		557.57,364.823 403.951,530.879 403.81,562.676 556.864,563.242 	" id="choacorral11wA1_12" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		939.853,286.246 857.319,433.082 903.955,459.227 986.631,312.533 	" id="choacorral11wA1_17" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		893.267,259.953 810.664,406.676 857.319,433.082 939.853,286.246 	" id="choacorral11wA1_16" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		846.58,233.673 763.904,380.51 810.664,406.676 893.267,259.953 	" id="choacorral11wA1_15" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		799.94,207.529 717.267,354.223 763.904,380.51 846.58,233.673 	" id="choacorral11wA1_14" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		753.304,181.243 741.999,201.169 718.68,188.026 618.199,298.259 717.267,354.223 799.94,207.529 	" id="choacorral11wA1_13" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		310.113,1077.095 118.901,1076.389 119.038,1152.873 309.83,1153.552 	" id="choacorral11wA2_30" class="casa"></polygon>
-
-    <rect x="119.042" y="1000.144" transform="matrix(1 0.0037 -0.0037 1 3.8359 -0.7855)" fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="191.213" height="76.598" id="choacorral11wA2_29" class="casa"></rect>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		311.03,924.041 119.891,924.041 119.184,999.791 310.396,1000.497 	" id="choacorral11wA2_28" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		310.96,847.585 119.75,846.878 119.467,923.335 311.03,924.041 	" id="choacorral11wA2_27" class="casa"></polygon>
-
-    <rect x="119.89" y="770.634" transform="matrix(1 0.0037 -0.0037 1 2.9926 -0.7913)" fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="191.213" height="76.598" id="choacorral11wA2_26" class="casa"></rect>
-
-    <rect x="120.173" y="694.177" transform="matrix(1 0.0037 -0.0037 1 2.7096 -0.7928)" fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="191.213" height="76.457" id="choacorral11wA2_24" class="casa"></rect>
-
-    <rect x="120.456" y="617.721" transform="matrix(1 0.0037 -0.0037 1 2.4303 -0.7955)" fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="191.212" height="76.458" id="choacorral11wA2_23" class="casa"></rect>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		312.091,541.478 120.879,540.77 121.162,617.367 311.808,618.075 	" id="choacorral11wA2_23" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		318.875,465.02 157.765,393.369 121.162,475.62 120.879,540.77 312.091,541.478 312.373,472.087 	" id="choacorral11wA2_22" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		373.85,405.806 188.857,323.414 157.765,393.369 318.875,465.02 	" id="choacorral11wA2_21" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		428.825,346.449 219.948,253.458 188.857,323.414 373.85,405.806 	" id="choacorral11wA2_20" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		483.517,287.093 251.039,183.644 219.948,253.458 428.825,346.449 	" id="choacorral11wA2_19" class="casa"></polygon>
-
-    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		641.094,114.114 403.527,140.965 258.105,167.958 251.039,183.644 483.517,287.093 	" id="choacorral11wA2_18" class="casa"></polygon>
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		764.327,2385.048 764.609,2306.756 611.558,2306.19 611.555,2364.839 703.277,2365.121" id="choacorral11_1"
+             class="casa" estado="<?php displayEstadoAtribute('1', '2'); ?>"
+             proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		764.893,2253.193 611.84,2252.628 611.558,2306.19 764.609,2306.756 	" id="choacorral11_2"
+             class="casa" estado="<?php displayEstadoAtribute('2', '2'); ?>"
+             proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		765.033,2199.634 611.98,2199.068 611.84,2252.628 764.893,2253.193 	" id="choacorral11_3"
+             class="casa" estado="<?php displayEstadoAtribute('3', '2'); ?>"
+             proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		765.176,2146.071 612.264,2145.506 611.98,2199.068 765.033,2199.634 	" id="choacorral11_4"
+             class="casa" estado="<?php displayEstadoAtribute('4', '2'); ?>"
+             proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		765.458,2092.51 612.403,2091.942 612.264,2145.506 765.176,2146.071 	" id="choacorral11_5"
+             class="casa" estado="<?php displayEstadoAtribute('5', '2'); ?>"
+             proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		765.599,2038.947 612.545,2038.383 612.403,2091.942 765.458,2092.51 	" id="choacorral11_6"
+             class="casa" estado="<?php displayEstadoAtribute('6', '2'); ?>"
+             proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		765.741,1985.526 612.829,1984.961 612.545,2038.383 765.599,2038.947 	" id="choacorral11_7"
+             class="casa" estado="<?php displayEstadoAtribute('7', '2'); ?>"
+             proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		766.021,1931.965 612.97,1931.401 612.829,1984.961 765.741,1985.526 	" id="choacorral11_8"
+             class="casa" estado="<?php displayEstadoAtribute('8', '2'); ?>"
+             proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		766.164,1878.404 613.252,1877.839 612.97,1931.401 766.021,1931.965 	" id="choacorral11_9"
+             class="casa" estado="<?php displayEstadoAtribute('9', '2'); ?>"
+             proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		766.447,1824.842 613.394,1824.276 613.252,1877.839 766.447,1877.839 	" id="choacorral11_10"
+             class="casa" estado="<?php displayEstadoAtribute('10', '2'); ?>"
+             proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		766.588,1771.28 613.534,1770.715 613.394,1824.276 766.447,1824.842 	" id="choacorral11_11"
+             class="casa" estado="<?php displayEstadoAtribute('11', '2'); ?>"
+             proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		766.73,1717.718 613.816,1717.154 613.534,1770.715 766.588,1771.28 	" id="choacorral11_12"
+             class="casa" estado="<?php displayEstadoAtribute('12', '2'); ?>"
+             proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		767.013,1664.158 613.958,1663.592 613.816,1717.154 766.73,1717.718 	" id="choacorral11_13"
+             class="casa" estado="<?php displayEstadoAtribute('13', '2'); ?>"
+             proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		767.153,1610.595 614.241,1610.029 613.958,1663.592 767.013,1664.158 	" id="choacorral11_14"
+             class="casa" estado="<?php displayEstadoAtribute('14', '2'); ?>"
+             proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
+
+    <rect x="614.382" y="1533.855" transform="matrix(1 0.0037 -0.0037 1 5.7977 -2.5349)" fill="#D8D8D8" stroke="#000000"
+          stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="152.914"
+          height="76.457" id="choacorral11_15" class="casa" proyecto="<?php displayProyectoAtribute('2'); ?>"></rect>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		537.219,1728.743 537.502,1675.178 384.448,1674.614 384.307,1728.177 	" id="choacorral11_16"
+             class="casa" estado="<?php displayEstadoAtribute('16', '2'); ?>"
+             proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		537.077,1782.305 537.219,1728.743 384.307,1728.177 384.448,1782.305 	" id="choacorral11_17"
+             class="casa" estado="<?php displayEstadoAtribute('17', '2'); ?>"
+             proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		536.796,1835.865 537.077,1782.305 384.448,1782.305 384.024,1835.865 	" id="choacorral11_18"
+             class="casa" estado="<?php displayEstadoAtribute('18', '2'); ?>"
+             proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		536.654,1889.427 536.796,1835.865 384.024,1835.865 383.601,1888.861 	" id="choacorral11_19"
+             class="casa" estado="<?php displayEstadoAtribute('19', '2'); ?>"
+             proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		536.513,1942.989 536.654,1889.427 383.601,1888.861 383.459,1942.424 	" id="choacorral11_20"
+             class="casa" estado="<?php displayEstadoAtribute('20', '2'); ?>"
+             proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		536.229,1996.552 536.513,1942.989 383.459,1942.424 383.318,1995.986 	" id="choacorral11_21"
+             class="casa" estado="<?php displayEstadoAtribute('21', '2'); ?>"
+             proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		536.089,2050.111 536.229,1996.552 383.318,1995.986 383.318,2050.111 	" id="choacorral11_22"
+             class="casa" estado="<?php displayEstadoAtribute('22', '2'); ?>"
+             proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		535.806,2103.674 536.089,2050.111 383.318,2050.111 382.894,2103.108 	" id="choacorral11_23"
+             class="casa" estado="<?php displayEstadoAtribute('23', '2'); ?>"
+             proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		535.665,2157.236 535.806,2103.674 382.894,2103.108 382.894,2157.236 	" id="choacorral11_24"
+             class="casa" estado="<?php displayEstadoAtribute('24', '2'); ?>"
+             proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		535.523,2210.799 535.665,2157.236 382.894,2157.236 382.894,2210.799 	" id="choacorral11_25"
+             class="casa" estado="<?php displayEstadoAtribute('25', '2'); ?>"
+             proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		535.241,2264.359 535.523,2210.799 382.894,2210.799 382.329,2263.795 	" id="choacorral11_26"
+             class="casa" estado="<?php displayEstadoAtribute('26', '2'); ?>"
+             proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		535.1,2317.922 535.241,2264.359 382.47,2264.359 381.623,2317.922 	" id="choacorral11_27"
+             class="casa" estado="<?php displayEstadoAtribute('27', '2'); ?>"
+             proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		534.816,2371.341 535.1,2317.922 381.623,2317.922 381.905,2370.777 	" id="choacorral11_28"
+             class="casa" estado="<?php displayEstadoAtribute('28', '2'); ?>"
+             proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		534.676,2424.903 534.816,2371.341 381.905,2370.777 381.621,2424.903 	" id="choacorral11_29"
+             class="casa" estado="<?php displayEstadoAtribute('29', '2'); ?>"
+             proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		932.22,2450.058 932.785,2337.565 779.873,2336.999 779.873,2390.138 823.826,2404.551 904.944,2449.918 	"
+             id="choacorral10_2" class="casa" estado="<?php displayEstadoAtribute('2', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		933.068,2284.002 780.014,2283.437 779.873,2336.999 932.785,2337.565 	" id="choacorral10_4"
+             class="casa" estado="<?php displayEstadoAtribute('4', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		933.209,2230.439 780.156,2229.876 780.014,2283.437 933.068,2284.002 	" id="choacorral10_6"
+             class="casa" estado="<?php displayEstadoAtribute('6', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		933.352,2176.88 780.438,2176.314 780.2,2229.219 933.209,2230.439 	" id="choacorral10_8"
+             class="casa" estado="<?php displayEstadoAtribute('8', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		933.635,2123.458 780.579,2122.893 780.438,2176.314 933.352,2176.88 	" id="choacorral10_10"
+             class="casa" estado="<?php displayEstadoAtribute('2', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		933.775,2069.898 780.862,2069.333 780.579,2122.893 933.775,2122.893 	" id="choacorral10_12"
+             class="casa" estado="<?php displayEstadoAtribute('12', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		934.059,2016.336 781.003,2015.77 780.862,2069.333 933.775,2069.898 	" id="choacorral10_14"
+             class="casa" estado="<?php displayEstadoAtribute('14', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		934.199,1962.773 781.146,1962.207 781.003,2015.77 934.059,2016.336 	" id="choacorral10_16"
+             class="casa" estado="<?php displayEstadoAtribute('16', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		934.342,1909.211 781.428,1908.646 781.146,1962.207 934.199,1962.773 	" id="choacorral10_18"
+             class="casa" estado="<?php displayEstadoAtribute('18', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		934.622,1855.648 781.568,1855.085 781.428,1908.646 934.342,1909.211 	" id="choacorral10_20"
+             class="casa" estado="<?php displayEstadoAtribute('20', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		934.765,1802.089 781.852,1801.522 781.568,1855.085 934.622,1855.648 	" id="choacorral10_22"
+             class="casa" estado="<?php displayEstadoAtribute('22', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		934.765,1748.526 781.991,1747.961 781.852,1801.522 934.765,1802.089 	" id="choacorral10_24"
+             class="casa" estado="<?php displayEstadoAtribute('24', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		935.188,1694.964 782.135,1694.398 781.991,1747.961 934.765,1748.526 	" id="choacorral10_26"
+             class="casa" estado="<?php displayEstadoAtribute('26', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		935.33,1641.404 782.418,1640.838 782.135,1694.398 935.188,1694.964 	" id="choacorral10_28"
+             class="casa" estado="<?php displayEstadoAtribute('28', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		935.611,1587.842 782.559,1587.276 782.418,1640.838 935.33,1641.404 	" id="choacorral10_30"
+             class="casa" estado="<?php displayEstadoAtribute('30', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		935.753,1496.121 782.983,1495.556 782.559,1587.276 935.611,1587.842 	" id="choacorral10_32"
+             class="casa" estado="<?php displayEstadoAtribute('32', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		1154.522,2383.919 1001.47,2383.353 1001.187,2454.297 1154.239,2454.863 	" id="choacorral10_1" class="casa"
+             estado="<?php displayEstadoAtribute('1', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		1154.805,2312.833 1001.752,2312.268 1001.47,2383.353 1154.522,2383.919 	" id="choacorral10_3"
+             class="casa" estado="<?php displayEstadoAtribute('3', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		1154.948,2259.271 1001.893,2258.705 1001.752,2312.268 1154.805,2312.268 	" id="choacorral10_5"
+             class="casa" estado="<?php displayEstadoAtribute('5', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		1155.089,2205.708 1002.176,2205.143 1001.893,2258.705 1154.948,2259.271 	" id="choacorral10_7"
+             class="casa" estado="<?php displayEstadoAtribute('7', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		1155.372,2152.146 1002.316,2151.58 1002.176,2205.143 1155.089,2205.708 	" id="choacorral10_9"
+             class="casa" estado="<?php displayEstadoAtribute('9', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		1155.514,2098.727 1002.599,2098.161 1002.316,2151.58 1155.372,2152.146 	" id="choacorral10_11"
+             class="casa" estado="<?php displayEstadoAtribute('10', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		1155.795,2045.164 1002.741,2044.598 1002.599,2098.161 1155.514,2098.727 	" id="choacorral10_13"
+             class="casa" estado="<?php displayEstadoAtribute('13', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		1155.938,1991.602 1002.882,1991.037 1002.741,2044.598 1155.795,2045.164 	" id="choacorral10_15"
+             class="casa" estado="<?php displayEstadoAtribute('15', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		1156.078,1938.042 1003.164,1937.476 1002.882,1991.037 1155.938,1991.602 	" id="choacorral10_17"
+             class="casa" estado="<?php displayEstadoAtribute('17', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		1156.36,1884.479 1003.308,1883.913 1003.164,1937.476 1156.078,1938.042 	" id="choacorral10_19"
+             class="casa" estado="<?php displayEstadoAtribute('19', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		1156.501,1830.917 1003.589,1830.352 1003.308,1883.913 1156.36,1884.479 	" id="choacorral10_21"
+             class="casa" estado="<?php displayEstadoAtribute('21', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		1156.783,1777.354 1003.731,1776.791 1003.589,1830.352 1156.501,1830.917 	" id="choacorral10_23"
+             class="casa" estado="<?php displayEstadoAtribute('23', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		1156.926,1723.794 1003.871,1723.229 1003.731,1776.791 1156.783,1777.354 	" id="choacorral10_25"
+             class="casa" estado="<?php displayEstadoAtribute('25', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		1157.066,1670.232 1004.154,1669.667 1003.871,1723.229 1156.926,1723.794 	" id="choacorral10_27"
+             class="casa" estado="<?php displayEstadoAtribute('27', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		1157.35,1616.67 1004.295,1616.104 1004.154,1669.667 1157.066,1670.232 	" id="choacorral10_29"
+             class="casa" estado="<?php displayEstadoAtribute('29', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		1157.35,1563.108 1004.578,1562.545 1004.295,1616.104 1157.35,1616.67 	" id="choacorral10_31"
+             class="casa" estado="<?php displayEstadoAtribute('31', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		1157.772,1509.548 1004.72,1508.982 1004.578,1562.545 1157.35,1563.108 	" id="choacorral10_33"
+             class="casa" estado="<?php displayEstadoAtribute('33', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		1157.915,1455.985 1005.144,1455.985 1004.72,1508.982 1157.772,1509.548 	" id="choacorral10_34"
+             class="casa" estado="<?php displayEstadoAtribute('34', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		1158.056,1402.423 1005.144,1401.856 1005.144,1455.985 1157.915,1455.985 	" id="choacorral10_35"
+             class="casa" estado="<?php displayEstadoAtribute('35', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		1158.338,1348.86 1005.283,1348.438 1005.144,1401.856 1158.056,1402.423 	" id="choacorral10_36"
+             class="casa" estado="<?php displayEstadoAtribute('36', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		1158.48,1295.44 1005.566,1294.876 1005.283,1348.438 1158.338,1348.86 	" id="choacorral10_37"
+             class="casa" estado="<?php displayEstadoAtribute('37', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		1158.762,1241.88 1005.709,1241.314 1005.566,1294.876 1158.48,1295.44 	" id="choacorral10_38"
+             class="casa" estado="<?php displayEstadoAtribute('38', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		1158.904,1188.317 1005.85,1187.753 1005.709,1241.314 1158.762,1241.88 	" id="choacorral10_39"
+             class="casa" estado="<?php displayEstadoAtribute('39', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		1159.044,1134.757 1006.132,1134.189 1005.85,1187.753 1158.904,1188.317 	" id="choacorral10_41"
+             class="casa" estado="<?php displayEstadoAtribute('41', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		1159.327,1081.193 1006.274,1080.911 1006.132,1134.189 1159.044,1134.757 	" id="choacorral10_43"
+             class="casa" estado="<?php displayEstadoAtribute('43', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		1159.47,1027.632 1006.556,1027.066 1006.274,1080.911 1159.327,1081.193 	" id="choacorral10_45"
+             class="casa" estado="<?php displayEstadoAtribute('45', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		1159.75,974.07 1006.697,973.506 1006.556,1027.066 1159.47,1027.632 	" id="choacorral10_47"
+             class="casa" estado="<?php displayEstadoAtribute('47', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		1159.893,920.509 1006.838,919.943 1006.697,973.506 1159.75,974.07 	" id="choacorral10_49"
+             class="casa" estado="<?php displayEstadoAtribute('49', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		1160.033,866.946 1007.121,866.382 1006.838,919.943 1159.893,920.509 	" id="choacorral10_51"
+             class="casa" estado="<?php displayEstadoAtribute('51', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		1160.317,813.386 1007.265,812.82 1007.121,866.382 1160.033,866.946 	" id="choacorral10_53"
+             class="casa" estado="<?php displayEstadoAtribute('53', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		1160.46,759.823 1007.404,759.259 1007.265,812.82 1160.317,813.386 	" id="choacorral10_55"
+             class="casa" estado="<?php displayEstadoAtribute('55', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		1160.74,706.263 1007.688,705.695 1007.404,759.259 1160.46,759.823 	" id="choacorral10_57"
+             class="casa" estado="<?php displayEstadoAtribute('57', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		1160.883,652.7 1007.828,652.135 1007.688,705.695 1160.74,706.263 	" id="choacorral10_59"
+             class="casa" estado="<?php displayEstadoAtribute('59', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		1161.023,599.138 1008.111,598.572 1007.828,652.135 1160.883,652.7 	" id="choacorral10_61"
+             class="casa" estado="<?php displayEstadoAtribute('61', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		1161.306,545.717 1008.254,545.153 1008.111,598.572 1161.023,599.138 	" id="choacorral10_63"
+             class="casa" estado="<?php displayEstadoAtribute('63', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		936.885,1243.858 937.165,1168.957 784.113,1168.392 783.973,1221.952 	" id="choacorral10_40"
+             class="casa" estado="<?php displayEstadoAtribute('40', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		937.308,1115.395 784.253,1114.829 784.113,1168.392 937.165,1168.957 	" id="choacorral10_42"
+             class="casa" estado="<?php displayEstadoAtribute('42', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		937.448,1061.833 784.536,1061.269 784.253,1114.829 937.308,1115.395 	" id="choacorral10_44"
+             class="casa" estado="<?php displayEstadoAtribute('44', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		937.731,1008.271 784.679,1007.706 784.536,1061.269 937.448,1061.833 	" id="choacorral10_46"
+             class="casa" estado="<?php displayEstadoAtribute('46', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		937.873,954.709 784.961,954.145 784.679,1007.706 937.731,1008.271 	" id="choacorral10_48"
+             class="casa" estado="<?php displayEstadoAtribute('48', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		938.154,901.148 785.102,900.583 784.961,954.145 937.873,954.709 	" id="choacorral10_50"
+             class="casa" estado="<?php displayEstadoAtribute('50', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		938.297,847.586 785.242,847.021 785.102,900.583 938.154,901.148 	" id="choacorral10_52"
+             class="casa" estado="<?php displayEstadoAtribute('52', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		938.438,794.167 785.525,793.6 785.242,847.021 938.297,847.586 	" id="choacorral10_54" class="casa"
+             estado="<?php displayEstadoAtribute('54', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		938.72,740.604 785.667,740.039 785.525,793.6 938.438,794.167 	" id="choacorral10_56" class="casa"
+             estado="<?php displayEstadoAtribute('56', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		938.863,687.042 785.95,686.477 785.667,740.039 938.72,740.604 	" id="choacorral10_58" class="casa"
+             estado="<?php displayEstadoAtribute('58', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		939.143,633.48 786.091,632.915 785.95,686.477 938.863,687.042 	" id="choacorral10_60" class="casa"
+             estado="<?php displayEstadoAtribute('60', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		939.143,579.919 786.23,579.354 786.091,632.915 939.143,633.48 	" id="choacorral10_62" class="casa"
+             estado="<?php displayEstadoAtribute('62', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		939.569,503.885 786.514,503.321 786.23,579.354 939.143,579.919 	" id="choacorral10_64"
+             class="casa" estado="<?php displayEstadoAtribute('64', '1'); ?>"
+             proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		768.568,1219.7 768.85,1145.921 615.936,1145.355 615.654,1197.786 	" id="choacorral11w_1"
+             class="casa" estado="<?php displayEstadoAtribute('1', '3'); ?>"
+             proyecto="<?php displayProyectoAtribute('3'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		769.132,1092.359 616.077,1091.794 615.936,1145.355 768.85,1145.921 	" id="choacorral11w_2"
+             class="casa" estado="<?php displayEstadoAtribute('2', '3'); ?>"
+             proyecto="<?php displayProyectoAtribute('3'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		769.274,1038.798 616.361,1038.233 616.077,1091.794 769.132,1092.359 	" id="choacorral11w_3"
+             class="casa" estado="<?php displayEstadoAtribute('3', '3'); ?>"
+             proyecto="<?php displayProyectoAtribute('3'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		769.415,985.236 616.503,984.671 616.361,1038.233 769.274,1038.798 	" id="choacorral11w_4"
+             class="casa" estado="<?php displayEstadoAtribute('4', '3'); ?>"
+             proyecto="<?php displayProyectoAtribute('3'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		769.697,931.674 616.645,931.108 616.503,984.671 769.415,985.236 	" id="choacorral11w_5"
+             class="casa" estado="<?php displayEstadoAtribute('5', '3'); ?>"
+             proyecto="<?php displayProyectoAtribute('3'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		769.838,878.113 616.927,877.548 616.645,931.108 769.697,931.674 	" id="choacorral11w_6"
+             class="casa" estado="<?php displayEstadoAtribute('6', '3'); ?>"
+             proyecto="<?php displayProyectoAtribute('3'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		770.121,824.551 617.068,823.985 616.927,877.548 769.838,878.113 	" id="choacorral11w_7"
+             class="casa" estado="<?php displayEstadoAtribute('7', '3'); ?>"
+             proyecto="<?php displayProyectoAtribute('3'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		770.264,770.99 617.351,770.424 617.068,823.985 770.121,824.551 	" id="choacorral11w_8"
+             class="casa" estado="<?php displayEstadoAtribute('8', '3'); ?>"
+             proyecto="<?php displayProyectoAtribute('3'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		770.403,717.427 617.491,716.861 617.351,770.424 770.264,770.99 	" id="choacorral11w_9"
+             class="casa" estado="<?php displayEstadoAtribute('9', '3'); ?>"
+             proyecto="<?php displayProyectoAtribute('3'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		770.687,663.865 617.633,663.3 617.491,716.861 770.403,717.427 	" id="choacorral11w_10"
+             class="casa" estado="<?php displayEstadoAtribute('10', '3'); ?>"
+             proyecto="<?php displayProyectoAtribute('3'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		770.827,610.304 617.916,609.738 617.633,663.3 770.687,663.865 	" id="choacorral11w_11"
+             class="casa" estado="<?php displayEstadoAtribute('11', '3'); ?>"
+             proyecto="<?php displayProyectoAtribute('3'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		771.109,556.742 618.058,556.177 617.916,609.738 770.827,610.304 	" id="choacorral11w_12"
+             class="casa" estado="<?php displayEstadoAtribute('12', '3'); ?>"
+             proyecto="<?php displayProyectoAtribute('3'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		771.252,503.18 618.197,502.614 618.058,556.177 771.109,556.742 	" id="choacorral11w_13"
+             class="casa" estado="<?php displayEstadoAtribute('13', '3'); ?>"
+             proyecto="<?php displayProyectoAtribute('3'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		771.393,449.619 618.48,449.053 618.197,502.614 771.252,503.18 	" id="choacorral11w_14"
+             class="casa" estado="<?php displayEstadoAtribute('14', '3'); ?>"
+             proyecto="<?php displayProyectoAtribute('3'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		771.676,396.198 618.622,395.632 618.48,449.053 771.393,449.619 	" id="choacorral11w_15"
+             class="casa" estado="<?php displayEstadoAtribute('15', '3'); ?>"
+             proyecto="<?php displayProyectoAtribute('3'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		554.886,1098.718 402.115,1098.718 401.69,1151.714 554.603,1189.025 	" id="choacorral11wA1_1"
+             class="casa" estado="<?php displayEstadoAtribute('1', '4'); ?>"
+             proyecto="<?php displayProyectoAtribute('4'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		555.027,1045.155 402.115,1044.591 402.115,1098.718 554.886,1098.718 	" id="choacorral11wA1_2"
+             class="casa" estado="<?php displayEstadoAtribute('2', '4'); ?>"
+             proyecto="<?php displayProyectoAtribute('4'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		555.31,991.595 402.255,991.028 402.115,1044.591 555.027,1045.155 	" id="choacorral11wA1_3"
+             class="casa" estado="<?php displayEstadoAtribute('3', '4'); ?>"
+             proyecto="<?php displayProyectoAtribute('4'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		555.45,938.032 402.396,937.468 402.255,991.028 555.31,991.595 	" id="choacorral11wA1_4"
+             class="casa" estado="<?php displayEstadoAtribute('4', '4'); ?>"
+             proyecto="<?php displayProyectoAtribute('4'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		555.592,884.471 402.68,883.905 402.396,937.468 555.45,938.032 	" id="choacorral11wA1_5"
+             class="casa" estado="<?php displayEstadoAtribute('5', '4'); ?>"
+             proyecto="<?php displayProyectoAtribute('4'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		555.874,830.909 402.821,830.343 402.68,883.905 555.592,884.471 	" id="choacorral11wA1_6"
+             class="casa" estado="<?php displayEstadoAtribute('6', '4'); ?>"
+             proyecto="<?php displayProyectoAtribute('4'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		556.016,777.348 403.104,776.781 402.821,830.343 555.874,830.909 	" id="choacorral11wA1_7"
+             class="casa" estado="<?php displayEstadoAtribute('7', '4'); ?>"
+             proyecto="<?php displayProyectoAtribute('4'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		556.3,723.926 403.245,723.361 403.104,776.781 556.016,777.348 	" id="choacorral11wA1_8"
+             class="casa" estado="<?php displayEstadoAtribute('8', '4'); ?>"
+             proyecto="<?php displayProyectoAtribute('4'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		556.44,670.365 403.104,670.365 403.245,723.361 556.3,723.926 	" id="choacorral11wA1_9"
+             class="casa" estado="<?php displayEstadoAtribute('9', '4'); ?>"
+             proyecto="<?php displayProyectoAtribute('4'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		556.582,616.803 403.668,616.237 403.104,670.365 556.44,670.365 	" id="choacorral11wA1_10"
+             class="casa" estado="<?php displayEstadoAtribute('10', '4'); ?>"
+             proyecto="<?php displayProyectoAtribute('4'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		556.864,563.242 403.81,562.676 403.668,616.237 556.582,616.803 	" id="choacorral11wA1_11"
+             class="casa" estado="<?php displayEstadoAtribute('11', '4'); ?>"
+             proyecto="<?php displayProyectoAtribute('4'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		557.57,364.823 403.951,530.879 403.81,562.676 556.864,563.242 	" id="choacorral11wA1_12"
+             class="casa" estado="<?php displayEstadoAtribute('12', '4'); ?>"
+             proyecto="<?php displayProyectoAtribute('4'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		939.853,286.246 857.319,433.082 903.955,459.227 986.631,312.533 	" id="choacorral11wA1_17"
+             class="casa" estado="<?php displayEstadoAtribute('17', '4'); ?>"
+             proyecto="<?php displayProyectoAtribute('4'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		893.267,259.953 810.664,406.676 857.319,433.082 939.853,286.246 	" id="choacorral11wA1_16"
+             class="casa" estado="<?php displayEstadoAtribute('16', '4'); ?>"
+             proyecto="<?php displayProyectoAtribute('4'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		846.58,233.673 763.904,380.51 810.664,406.676 893.267,259.953 	" id="choacorral11wA1_15"
+             class="casa" estado="<?php displayEstadoAtribute('15', '4'); ?>"
+             proyecto="<?php displayProyectoAtribute('4'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		799.94,207.529 717.267,354.223 763.904,380.51 846.58,233.673 	" id="choacorral11wA1_14"
+             class="casa" estado="<?php displayEstadoAtribute('14', '4'); ?>"
+             proyecto="<?php displayProyectoAtribute('4'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		753.304,181.243 741.999,201.169 718.68,188.026 618.199,298.259 717.267,354.223 799.94,207.529 	"
+             id="choacorral11wA1_13" class="casa" estado="<?php displayEstadoAtribute('13', '4'); ?>"
+             proyecto="<?php displayProyectoAtribute('4'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		310.113,1077.095 118.901,1076.389 119.038,1152.873 309.83,1153.552 	" id="choacorral11wA2_30"
+             class="casa" estado="<?php displayEstadoAtribute('13', '5'); ?>"
+             proyecto="<?php displayProyectoAtribute('5'); ?>"></polygon>
+
+    <rect x="119.042" y="1000.144" transform="matrix(1 0.0037 -0.0037 1 3.8359 -0.7855)" fill="#D8D8D8" stroke="#000000"
+          stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="191.213"
+          height="76.598" id="choacorral11wA2_29" class="casa" estado="<?php displayEstadoAtribute('12', '5'); ?>"
+          proyecto="<?php displayProyectoAtribute('5'); ?>"></rect>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		311.03,924.041 119.891,924.041 119.184,999.791 310.396,1000.497 	" id="choacorral11wA2_28"
+             class="casa" estado="<?php displayEstadoAtribute('11', '5'); ?>"
+             proyecto="<?php displayProyectoAtribute('5'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		310.96,847.585 119.75,846.878 119.467,923.335 311.03,924.041 	" id="choacorral11wA2_27"
+             class="casa" estado="<?php displayEstadoAtribute('10', '5'); ?>"
+             proyecto="<?php displayProyectoAtribute('5'); ?>"></polygon>
+
+    <rect x="119.89" y="770.634" transform="matrix(1 0.0037 -0.0037 1 2.9926 -0.7913)" fill="#D8D8D8" stroke="#000000"
+          stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="191.213"
+          height="76.598" id="choacorral11wA2_26" class="casa" estado="<?php displayEstadoAtribute('9', '5'); ?>"
+          proyecto="<?php displayProyectoAtribute('5'); ?>"></rect>
+
+    <rect x="120.173" y="694.177" transform="matrix(1 0.0037 -0.0037 1 2.7096 -0.7928)" fill="#D8D8D8" stroke="#000000"
+          stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="191.213"
+          height="76.457" id="choacorral11wA2_25" class="casa" estado="<?php displayEstadoAtribute('8', '5'); ?>"
+          proyecto="<?php displayProyectoAtribute('5'); ?>"></rect>
+
+    <rect x="120.456" y="617.721" transform="matrix(1 0.0037 -0.0037 1 2.4303 -0.7955)" fill="#D8D8D8" stroke="#000000"
+          stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="191.212"
+          height="76.458" id="choacorral11wA2_24" class="casa" estado="<?php displayEstadoAtribute('7', '5'); ?>"
+          proyecto="<?php displayProyectoAtribute('5'); ?>"></rect>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		312.091,541.478 120.879,540.77 121.162,617.367 311.808,618.075 	" id="choacorral11wA2_23"
+             class="casa" estado="<?php displayEstadoAtribute('6', '5'); ?>"
+             proyecto="<?php displayProyectoAtribute('5'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		318.875,465.02 157.765,393.369 121.162,475.62 120.879,540.77 312.091,541.478 312.373,472.087 	"
+             id="choacorral11wA2_22" class="casa" estado="<?php displayEstadoAtribute('5', '5'); ?>"
+             proyecto="<?php displayProyectoAtribute('5'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		373.85,405.806 188.857,323.414 157.765,393.369 318.875,465.02 	" id="choacorral11wA2_21"
+             class="casa" estado="<?php displayEstadoAtribute('4', '5'); ?>"
+             proyecto="<?php displayProyectoAtribute('5'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		428.825,346.449 219.948,253.458 188.857,323.414 373.85,405.806 	" id="choacorral11wA2_20"
+             class="casa" estado="<?php displayEstadoAtribute('3', '5'); ?>"
+             proyecto="<?php displayProyectoAtribute('5'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		483.517,287.093 251.039,183.644 219.948,253.458 428.825,346.449 	" id="choacorral11wA2_19"
+             class="casa" estado="<?php displayEstadoAtribute('2', '5'); ?>"
+             proyecto="<?php displayProyectoAtribute('5'); ?>"></polygon>
+
+    <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+             stroke-miterlimit="10" points="
+		641.094,114.114 403.527,140.965 258.105,167.958 251.039,183.644 483.517,287.093 	" id="choacorral11wA2_18"
+             class="casa" estado="<?php displayEstadoAtribute('1', '5'); ?>"
+             proyecto="<?php displayProyectoAtribute('5'); ?>"></polygon>
 </g>
         <g id="Layer_3">
             <polygon fill="#FFFFFF" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" points="1161.871,2473.518 1168.797,566.067
@@ -500,17 +913,22 @@ while($row = $result->fetch_array(MYSQLI_NUM)){
 		C944.457,1232.943,947.201,503.885,947.201,503.885z"/>
             <polygon fill="#FFFFFF" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" points="943.386,1496.121 939.992,2450.058
 		932.22,2450.058 935.753,1496.121 	"/>
-            <circle fill="#FFFFFF" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" cx="829.477" cy="1397.712" r="27.653"/>
+            <circle fill="#FFFFFF" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" cx="829.477"
+                    cy="1397.712" r="27.653"/>
             <polygon fill="#FFFFFF" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" points="831.288,1420.36 814.737,1415.064
 		806.781,1399.614 812.076,1383.064 827.529,1375.11 844.074,1380.402 852.032,1395.854 846.736,1412.403 	"/>
 
-            <line fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" x1="827.529" y1="1375.11" x2="831.288" y2="1420.36"/>
+            <line fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" x1="827.529" y1="1375.11"
+                  x2="831.288" y2="1420.36"/>
 
-            <line fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" x1="806.781" y1="1399.614" x2="852.032" y2="1395.854"/>
+            <line fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" x1="806.781" y1="1399.614"
+                  x2="852.032" y2="1395.854"/>
 
-            <line fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" x1="814.737" y1="1415.064" x2="844.074" y2="1380.402"/>
+            <line fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" x1="814.737" y1="1415.064"
+                  x2="844.074" y2="1380.402"/>
 
-            <line fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" x1="812.076" y1="1383.064" x2="846.736" y2="1412.403"/>
+            <line fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" x1="812.076" y1="1383.064"
+                  x2="846.736" y2="1412.403"/>
             <path fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" d="M57.425,1157.084l2.544-694.466l155.174-348.929
 		l176.655-33.07l264.054-29.723c0,0,17.078-1.5,25.653,1.151c12.787,3.954,20.334,12.388,27.214,20.129
 		c6.521,7.34,12.576,13.938,17.058,19.815c6.478,8.498,8.731,25.938,8.731,25.938l274.593,154.607l3.814-6.642L741.858,113.266
@@ -521,143 +939,191 @@ while($row = $result->fetch_array(MYSQLI_NUM)){
 		679.392,140.258 680.947,121.463 665.4,103.798 399.713,133.616 264.465,158.914 249.484,168.947 113.53,474.066 110.846,1168.108
 		118.618,1169.662 	"/>
 
-            <polygon fill="none" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+            <polygon fill="none" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+                     stroke-miterlimit="10" points="
 		990.305,305.89 728.715,158.489 724.898,165.132 732.105,169.23 986.631,312.533 	"/>
 
-            <path fill="none" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+            <path fill="none" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+                  stroke-miterlimit="10" d="
 		M572.833,387.717l-15.404,0.001l-2.826,801.307l-152.912-37.312l2.261-620.836L718.68,188.026l13.426-18.796l-7.207-4.098
 		l-4.664,10.031L396.32,527.77c0,0-2.262,484.174-2.262,613.696c0,10.248,8.458,17.55,14.916,19.532
 		c32.472,9.961,100.631,25.835,133.558,33.106c16.669,3.682,27.291-11.489,27.333-22.605
 		C570.601,977.323,572.833,387.717,572.833,387.717z"/>
 
-            <polygon fill="none" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+            <polygon fill="none" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+                     stroke-miterlimit="10" points="
 		320.429,2424.194 323.396,1652.85 502.313,1548.411 614.523,1533.573 782.841,1534.137 782.981,1495.556 770.687,1496.121
 		515.031,1531.572 500.192,1540.782 315.764,1648.47 312.797,2424.194 	"/>
 
-            <path fill="none" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+            <path fill="none" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+                  stroke-miterlimit="10" d="
 		M629.08,2533.721l-79.141-102.883l2.826-755.518c0,0-13.565-26.179-27.842-47.165c-6.078-8.935-25.862-25.793-53.847-8.487
 		c-37.993,23.493-94.259,55.089-94.259,55.089l-2.827,749.581l7.63,0.565l2.828-750.289l153.054,0.563l-2.826,749.726
 		l86.632,111.361l113.059,59.923"/>
 
-            <line fill="none" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="905.369" y1="1482.695" x2="935.896" y2="1482.835"/>
+            <line fill="none" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+                  stroke-miterlimit="10" x1="905.369" y1="1482.695" x2="935.896" y2="1482.835"/>
 
-            <line fill="none" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="905.369" y1="1467.432" x2="936.036" y2="1467.574"/>
+            <line fill="none" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+                  stroke-miterlimit="10" x1="905.369" y1="1467.432" x2="936.036" y2="1467.574"/>
 
-            <line fill="none" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="905.369" y1="1452.098" x2="936.036" y2="1452.241"/>
+            <line fill="none" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+                  stroke-miterlimit="10" x1="905.369" y1="1452.098" x2="936.036" y2="1452.241"/>
 
-            <line fill="none" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="905.369" y1="1436.693" x2="936.036" y2="1436.836"/>
+            <line fill="none" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+                  stroke-miterlimit="10" x1="905.369" y1="1436.693" x2="936.036" y2="1436.836"/>
 
-            <line fill="none" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="905.369" y1="1421.572" x2="936.036" y2="1421.715"/>
+            <line fill="none" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+                  stroke-miterlimit="10" x1="905.369" y1="1421.572" x2="936.036" y2="1421.715"/>
 
-            <line fill="none" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="905.369" y1="1406.168" x2="936.036" y2="1406.311"/>
+            <line fill="none" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+                  stroke-miterlimit="10" x1="905.369" y1="1406.168" x2="936.036" y2="1406.311"/>
 
-            <line fill="none" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="905.369" y1="1390.903" x2="936.036" y2="1391.046"/>
+            <line fill="none" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+                  stroke-miterlimit="10" x1="905.369" y1="1390.903" x2="936.036" y2="1391.046"/>
 
-            <line fill="none" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="905.369" y1="1375.642" x2="936.036" y2="1375.784"/>
+            <line fill="none" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+                  stroke-miterlimit="10" x1="905.369" y1="1375.642" x2="936.036" y2="1375.784"/>
 
-            <line fill="none" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="905.369" y1="1360.378" x2="936.036" y2="1360.521"/>
+            <line fill="none" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+                  stroke-miterlimit="10" x1="905.369" y1="1360.378" x2="936.036" y2="1360.521"/>
 
-            <path fill="none" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+            <path fill="none" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
+                  stroke-miterlimit="10" d="
 		M905.793,1354.63c0,0,15.297-16.225,20.056-21.067c4.034-4.106,3.593-11.467-3.016-17.375
 		c-7.524-6.725-27.124-19.825-48.869-22.725c-24.312-3.241-44.186,1.694-60.956,10.694c-4.91,2.635-7.756,7.062-6.53,13.754
 		c2.041,11.146,4.488,25.155,4.488,25.155l-37.875-4.179l-384.12-57.154l-0.989,267.808l382.704-54.126l134.683,0.563
 		L905.793,1354.63z"/>
 
-            <polygon fill="none" stroke="#000000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+            <polygon fill="none" stroke="#000000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round"
+                     stroke-miterlimit="10" points="
 		750.641,1416.035 782.031,1400.084 755.135,1347.174 723.745,1363.127 	"/>
 
-            <polygon fill="none" stroke="#000000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+            <polygon fill="none" stroke="#000000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round"
+                     stroke-miterlimit="10" points="
 		752.313,1411.01 777.05,1398.438 753.573,1352.258 728.835,1364.828 	"/>
 
-            <circle fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="752.952" cy="1381.719" r="3.321"/>
+            <circle fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round"
+                    stroke-miterlimit="10" cx="752.952" cy="1381.719" r="3.321"/>
 
-            <circle fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="759.875" cy="1395.143" r="3.321"/>
+            <circle fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round"
+                    stroke-miterlimit="10" cx="759.875" cy="1395.143" r="3.321"/>
 
-            <circle fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="745.97" cy="1368.095" r="3.265"/>
+            <circle fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round"
+                    stroke-miterlimit="10" cx="745.97" cy="1368.095" r="3.265"/>
 
-            <polygon fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+            <polygon fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round"
+                     stroke-miterlimit="10" points="
 		769.697,1402.184 762.797,1393.659 756.837,1396.769 759.853,1407.229 	"/>
 
-            <polygon fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+            <polygon fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round"
+                     stroke-miterlimit="10" points="
 		766.307,1411.184 768.146,1410.335 764.187,1402.423 762.351,1403.27 	"/>
 
-            <polygon fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+            <polygon fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round"
+                     stroke-miterlimit="10" points="
 		738.748,1352.534 736.911,1353.523 740.869,1361.438 742.848,1360.449 	"/>
 
-            <line fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="740.587" y1="1388.008" x2="765.318" y2="1375.359"/>
+            <line fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round"
+                  stroke-miterlimit="10" x1="740.587" y1="1388.008" x2="765.318" y2="1375.359"/>
 
-            <line fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="764.47" y1="1407.292" x2="766.121" y2="1406.38"/>
+            <line fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round"
+                  stroke-miterlimit="10" x1="764.47" y1="1407.292" x2="766.121" y2="1406.38"/>
 
-            <line fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="764.775" y1="1408.107" x2="766.427" y2="1407.193"/>
+            <line fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round"
+                  stroke-miterlimit="10" x1="764.775" y1="1408.107" x2="766.427" y2="1407.193"/>
 
-            <line fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="765.764" y1="1409.944" x2="767.416" y2="1409.031"/>
+            <line fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round"
+                  stroke-miterlimit="10" x1="765.764" y1="1409.944" x2="767.416" y2="1409.031"/>
 
-            <circle fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="762.773" cy="1401.997" r="0.423"/>
+            <circle fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round"
+                    stroke-miterlimit="10" cx="762.773" cy="1401.997" r="0.423"/>
 
-            <path fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+            <path fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round"
+                  stroke-miterlimit="10" d="
 		M773.522,1396.67c0.431,0.84,1.123,2.822,1.123,2.822l-19.927,10.42c0,0-1.378-1.845-1.817-2.705
 		c-2.82-5.516-0.479-12.341,5.213-15.248C763.809,1389.052,770.711,1391.154,773.522,1396.67z"/>
 
-            <path fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+            <path fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round"
+                  stroke-miterlimit="10" d="
 		M732.236,1366.435c-0.423-0.842-1.103-2.832-1.103-2.832l20.018-10.246c0,0,1.366,1.857,1.798,2.724
 		c2.768,5.54,0.368,12.346-5.348,15.203C741.881,1374.137,734.995,1371.978,732.236,1366.435z"/>
 
-            <polygon fill="none" stroke="#000000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+            <polygon fill="none" stroke="#000000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round"
+                     stroke-miterlimit="10" points="
 		727.602,1498.518 760,1482.056 733.228,1429.391 700.829,1445.853 	"/>
 
-            <path fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+            <path fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round"
+                  stroke-miterlimit="10" d="
 		M734.067,1462.633c0,2.431-1.972,4.406-4.407,4.406s-4.409-1.976-4.409-4.406c0-2.434,1.974-4.409,4.409-4.409
 		S734.067,1460.199,734.067,1462.633z"/>
 
-            <line fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="717.195" y1="1468.949" x2="741.928" y2="1456.3"/>
+            <line fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round"
+                  stroke-miterlimit="10" x1="717.195" y1="1468.949" x2="741.928" y2="1456.3"/>
 
-            <polygon fill="none" stroke="#000000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+            <polygon fill="none" stroke="#000000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round"
+                     stroke-miterlimit="10" points="
 		727.919,1496.489 758.176,1481.117 732.873,1431.343 702.617,1446.716 	"/>
 
-            <rect x="714.009" y="1439.143" transform="matrix(0.894 -0.448 0.448 0.894 -569.2157 474.5705)" fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="8.895" height="2.5"/>
+            <rect x="714.009" y="1439.143" transform="matrix(0.894 -0.448 0.448 0.894 -569.2157 474.5705)" fill="none"
+                  stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round"
+                  stroke-miterlimit="10" width="8.895" height="2.5"/>
 
-            <polygon fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+            <polygon fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round"
+                     stroke-miterlimit="10" points="
 		730.394,1442.005 712.536,1450.96 708.932,1443.769 726.79,1434.821 	"/>
             <g>
 
-                <path fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+                <path fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round"
+                      stroke-miterlimit="10" d="
 			M718.188,1448.126c0.706,0.515,1.566,0.828,2.507,0.828c2.347,0,4.243-1.89,4.271-4.229L718.188,1448.126z"/>
             </g>
 
-            <polygon fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+            <polygon fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round"
+                     stroke-miterlimit="10" points="
 		614.523,1533.573 606.751,1534.602 603.501,2425.185 611.131,2425.187 	"/>
 
-            <polygon fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+            <polygon fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round"
+                     stroke-miterlimit="10" points="
 		695.08,2365.124 695.08,2390.561 678.826,2429.426 666.106,2413.031 630.494,2440.45 619.329,2425.893 619.046,2364.841 	"/>
 
-            <polygon fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+            <polygon fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round"
+                     stroke-miterlimit="10" points="
 		663.846,2503.621 670.913,2503.618 611.132,2425.893 603.501,2425.185 	"/>
 
-            <polyline fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+            <polyline fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round"
+                      stroke-miterlimit="10" points="
 		679.32,2430.838 679.814,2455.709 677.697,2500.934 699.179,2545.169 735.121,2596.188 772.101,2642.541 	"/>
 
-            <polygon fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+            <polygon fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round"
+                     stroke-miterlimit="10" points="
 		655.931,2424.764 626.254,2447.517 650.278,2478.605 680.162,2455.709 	"/>
 
-            <polygon fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+            <polygon fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round"
+                     stroke-miterlimit="10" points="
 		646.604,2459.668 651.833,2466.31 664.411,2456.562 665.825,2446.809 654.801,2432.675 636.712,2446.668 641.8,2453.311
 		655.084,2443.135 655.791,2443.983 641.658,2454.863 635.157,2446.524 655.085,2431.121 666.956,2446.524 665.399,2457.268
 		651.55,2467.866 645.758,2460.374 	"/>
 
-            <polygon fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+            <polygon fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round"
+                     stroke-miterlimit="10" points="
 		1038.496,2454.438 1038.355,2493.585 1001.187,2493.585 1001.222,2454.366 	"/>
 
-            <polygon fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+            <polygon fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round"
+                     stroke-miterlimit="10" points="
 		1012.916,2468.43 1029.734,2468.43 1029.875,2460.092 1006.838,2459.949 1006.84,2477.897 1013.765,2484.824 1029.734,2484.824
 		1029.734,2476.485 1030.863,2476.485 1030.863,2485.953 1013.342,2485.813 1005.709,2478.322 1005.85,2458.96 1030.863,2458.96
 		1030.863,2469.559 1012.916,2469.419 	"/>
 
-            <polyline fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+            <polyline fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round"
+                      stroke-miterlimit="10" points="
 		771.676,396.198 771.676,388.426 557.429,387.718 	"/>
 
-            <line fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="786.94" y1="393.37" x2="783.973" y2="1222.378"/>
+            <line fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round"
+                  stroke-miterlimit="10" x1="786.94" y1="393.37" x2="783.973" y2="1222.378"/>
 
-            <polyline fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+            <polyline fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="round" stroke-linejoin="round"
+                      stroke-miterlimit="10" points="
 		49.793,1155.531 118.618,1169.662 355.478,1219.268 540.046,1264.21 606.75,1273.82 	"/>
             <g>
                 <path d="M728.135,2378.474c0.715,0.114,1.634,0.315,2.763,0.695c1.386,0.466,2.292,1.129,2.741,1.926
@@ -2136,7 +2602,8 @@ while($row = $result->fetch_array(MYSQLI_NUM)){
 			c-1.24,0-2.255-0.383-2.954-1.094c-0.71-0.71-1.094-1.883-1.094-3.36c0-0.699,0.034-1.286,0.09-1.782H331.885z M325.165,523.016
 			c-0.045,0.248-0.056,0.609-0.056,0.993c0,2.097,1.173,3.236,3.225,3.236c1.793,0.012,2.932-1.003,2.932-3.078
 			c0-0.507-0.045-0.891-0.102-1.15H325.165z"/>
-                <path d="M327.95,534.326v-2.955h-2.74v3.293h-0.823v-4.274h7.6v4.104h-0.823v-3.124h-2.402v2.955H327.95z"/>
+                <path
+                    d="M327.95,534.326v-2.955h-2.74v3.293h-0.823v-4.274h7.6v4.104h-0.823v-3.124h-2.402v2.955H327.95z"/>
                 <path d="M331.017,543.854c0.011-0.203,0-0.462-0.045-0.744c-0.259-1.556-1.398-2.379-2.605-2.548v0.034
 			c0.462,0.35,0.846,0.958,0.846,1.771c0,1.296-0.936,2.21-2.368,2.21c-1.342,0-2.582-0.914-2.582-2.436
 			c0-1.567,1.218-2.594,3.124-2.594c1.443,0,2.582,0.519,3.304,1.24c0.598,0.609,0.97,1.421,1.083,2.346
@@ -2158,7 +2625,8 @@ while($row = $result->fetch_array(MYSQLI_NUM)){
 			c0.44-1.24,1.083-2.007,2.154-2.007c1.184,0,2.063,0.981,2.063,2.458c0,0.778-0.18,1.342-0.372,1.68l-0.801-0.271
 			c0.136-0.248,0.361-0.755,0.361-1.443c0-1.037-0.62-1.432-1.139-1.432c-0.71,0-1.06,0.462-1.466,1.511
 			c-0.496,1.286-1.116,1.939-2.233,1.939c-1.172,0-2.188-0.868-2.188-2.661c0-0.733,0.214-1.534,0.485-1.939L325.582,574.367z"/>
-                <path d="M327.95,584.843v-2.955h-2.74v3.293h-0.823v-4.274h7.6v4.104h-0.823v-3.124h-2.402v2.955H327.95z"/>
+                <path
+                    d="M327.95,584.843v-2.955h-2.74v3.293h-0.823v-4.274h7.6v4.104h-0.823v-3.124h-2.402v2.955H327.95z"/>
             </g>
             <g>
                 <path d="M331.152,951.004v-2.313h0.834v5.627h-0.834v-2.322h-6.766v-0.992H331.152z"/>
@@ -2175,7 +2643,8 @@ while($row = $result->fetch_array(MYSQLI_NUM)){
 			c-1.24,0-2.255-0.384-2.954-1.094c-0.71-0.711-1.094-1.883-1.094-3.36c0-0.699,0.034-1.285,0.09-1.781H331.885z M325.165,989.387
 			c-0.045,0.248-0.056,0.609-0.056,0.992c0,2.098,1.173,3.236,3.225,3.236c1.793,0.012,2.932-1.003,2.932-3.078
 			c0-0.508-0.045-0.891-0.102-1.15H325.165z"/>
-                <path d="M327.95,1000.697v-2.954h-2.74v3.293h-0.823v-4.273h7.6v4.104h-0.823v-3.124h-2.402v2.954H327.95z"/>
+                <path
+                    d="M327.95,1000.697v-2.954h-2.74v3.293h-0.823v-4.273h7.6v4.104h-0.823v-3.124h-2.402v2.954H327.95z"/>
                 <path d="M331.017,1010.225c0.011-0.202,0-0.462-0.045-0.744c-0.259-1.556-1.398-2.379-2.605-2.548v0.033
 			c0.462,0.35,0.846,0.959,0.846,1.771c0,1.297-0.936,2.211-2.368,2.211c-1.342,0-2.582-0.914-2.582-2.437
 			c0-1.567,1.218-2.593,3.124-2.593c1.443,0,2.582,0.519,3.304,1.24c0.598,0.608,0.97,1.421,1.083,2.346
@@ -2198,7 +2667,8 @@ while($row = $result->fetch_array(MYSQLI_NUM)){
 			c0.44-1.24,1.083-2.007,2.154-2.007c1.184,0,2.063,0.98,2.063,2.458c0,0.778-0.18,1.342-0.372,1.68l-0.801-0.271
 			c0.136-0.248,0.361-0.755,0.361-1.443c0-1.037-0.62-1.432-1.139-1.432c-0.71,0-1.06,0.462-1.466,1.511
 			c-0.496,1.285-1.116,1.939-2.233,1.939c-1.172,0-2.188-0.868-2.188-2.661c0-0.733,0.214-1.533,0.485-1.939L325.582,1040.738z"/>
-                <path d="M327.95,1051.214v-2.954h-2.74v3.293h-0.823v-4.273h7.6v4.104h-0.823v-3.124h-2.402v2.954H327.95z"/>
+                <path
+                    d="M327.95,1051.214v-2.954h-2.74v3.293h-0.823v-4.273h7.6v4.104h-0.823v-3.124h-2.402v2.954H327.95z"/>
             </g>
             <g>
                 <path d="M200.341,1168.1c-0.354,0.074-1.046,0.181-1.831,0.072c-0.881-0.122-1.574-0.446-2.069-1.068
@@ -2487,11 +2957,10 @@ while($row = $result->fetch_array(MYSQLI_NUM)){
 </svg>
 
 
-<!--SVG MAP END-->
+    <!--SVG MAP END-->
 
 
 </div> <!-- /container -->
-
 
 
 <!-- Modal -->
@@ -2499,7 +2968,8 @@ while($row = $result->fetch_array(MYSQLI_NUM)){
     <div class="modal-dialog" role="document">
         <div class="modal-content">
             <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
+                        aria-hidden="true">&times;</span></button>
                 <h4 class="modal-title" id="tituloModal">Control de disponibilidad</h4>
             </div>
             <div class="modal-body" style="background-color: #3fb3ff">
@@ -2507,19 +2977,21 @@ while($row = $result->fetch_array(MYSQLI_NUM)){
                     <div class="form-group">
                         <label for="inputEmail3" class="col-sm-2 control-label">Vendedor</label>
                         <div class="col-sm-10">
-                            <input type="email" class="form-control" id="inputEmail3" placeholder="Vendedor" disabled>
+                            <input type="email" class="form-control" id="ctrFormVendedorInput" placeholder="Vendedor" disabled>
                         </div>
                     </div>
                     <div class="form-group">
                         <label for="inputEmail3" class="col-sm-2 control-label">Proyecto</label>
                         <div class="col-sm-10">
-                            <input type="email" class="form-control" id="inputEmail3" placeholder="Proyecto 1" disabled>
+                            <input type="email" class="form-control" id="ctrFormProyectoInput" placeholder="Proyecto 1" disabled>
                         </div>
                     </div>
                     <div class="form-group">
-                        <label for="inputPassword3" class="col-sm-2 control-label">Casa No. <span id="ctrFormCaasaNoLabelNumber"></span> </label>
+                        <label for="inputPassword3" class="col-sm-2 control-label">Casa No. <span
+                                id="ctrFormCaasaNoLabelNumber"></span> </label>
                         <div class="col-sm-10">
-                            <input type="number" class="form-control" id="ctrFormCaasaNoInput" placeholder="Casa" disabled>
+                            <input type="number" class="form-control" id="ctrFormCaasaNoInput" placeholder="Casa"
+                                   disabled>
                         </div>
                     </div>
                     <div class="form-group">
@@ -2544,85 +3016,86 @@ while($row = $result->fetch_array(MYSQLI_NUM)){
 </div>
 
 
-
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="js/jquery.js"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="js/bootstrap.min.js"></script>
 
 <script>
-$(document).ready(function() {
+    $(document).ready(function () {
 
-function dbStateChanger(casaNo, estado){
+        function dbStateChanger(casaNo, estado) {
 
-    $.ajax({
-        method: "POST",
-        url: "includes/dbHelper.php",
-        data: { casaNo: casaNo, estado: estado }
-    })
-        .done(function( html ) {
-            console.log(html);
-            if(html== 'ok'){
-                location.reload();
+            $.ajax({
+                    method: "POST",
+                    url: "includes/dbHelper.php",
+                    data: {casaNo: casaNo, estado: estado}
+                })
+                .done(function (html) {
+                    console.log(html);
+                    if (html == 'ok') {
+                        location.reload();
+                    }
+
+                    $("#results").append(html);
+                });
+        }
+
+        function toggleState(AttrColor) {
+
+            switch (AttrColor) {
+                case "#4BD609":
+                    AttrColor = "#D8D8D8";
+                    break;
+                case "#FFFFFF":
+                    AttrColor = "#4BD609";
+                    break;
+                case "#D8D8D8":
+                    AttrColor = "#4BD609";
+                    break;
             }
 
-            $( "#results" ).append( html );
+            return AttrColor;
+        }
+
+
+        $(".casa").click(function () {
+            var proyecto =$(this).attr("proyecto");
+
+            $("#ctrFormProyectoInput").val(proyecto);
+            $("#myModal").modal(open);
+            var AttrColor = $(this).attr("fill");
+            newColor = toggleState(AttrColor);
+            $(this).attr("fill", newColor);
+
         });
-}
 
-function toggleState (AttrColor){
+        /*$(".casa").click(function() {
+         // obtenemos y mostramos el numero de la casa
+         var idCasa = $(this).attr("id");
+         $("#myModal #tituloModal").html('Casa número '+idCasa);
+         $("#ctrFormCaasaNoInput").val(idCasa);
 
-    switch (AttrColor) {
-        case "#4BD609":
-            AttrColor = "#D8D8D8";
-            break;
-        case "#FFFFFF":
-            AttrColor = "#4BD609";
-            break;
-        case "#D8D8D8":
-            AttrColor = "#4BD609";
-            break;
-    }
+         //Obtenemos y mostramos el estado de la casa
+         var estadoCasa = $(this).attr("estado");
+         $("#ctrFormCasaEstadoSelect").val(estadoCasa);
+         console.log(estadoCasa);
+         $("#myModal").modal(open);
+         var AttrColor = $(this).attr( "fill");
+         newColor = toggleState(AttrColor);
 
-   return AttrColor;
-}
+         //$(this).attr( "fill", newColor );
 
+         });*/
+        $("#ctrFormGauardarBtn").click(function () {
 
+            var inputIdCasa = $("#ctrFormCaasaNoInput").val();
+            var inputEstadoCasa = $("#ctrFormCasaEstadoSelect").val();
+            dbStateChanger(inputIdCasa, inputEstadoCasa);
 
-    $(".casa").click(function() {
-        $("#myModal").modal(open);
-        var AttrColor = $(this).attr( "fill");
-        newColor = toggleState(AttrColor);
-        $(this).attr( "fill", newColor );
-
-    });
-
-    /*$(".casa").click(function() {
-        // obtenemos y mostramos el numero de la casa
-        var idCasa = $(this).attr("id");
-        $("#myModal #tituloModal").html('Casa número '+idCasa);
-        $("#ctrFormCaasaNoInput").val(idCasa);
-
-        //Obtenemos y mostramos el estado de la casa
-        var estadoCasa = $(this).attr("estado");
-        $("#ctrFormCasaEstadoSelect").val(estadoCasa);
-        console.log(estadoCasa);
-        $("#myModal").modal(open);
-        var AttrColor = $(this).attr( "fill");
-        newColor = toggleState(AttrColor);
-
-       //$(this).attr( "fill", newColor );
-
-    });*/
-    $("#ctrFormGauardarBtn").click(function() {
-
-        var inputIdCasa = $("#ctrFormCaasaNoInput").val();
-        var inputEstadoCasa = $("#ctrFormCasaEstadoSelect").val();
-        dbStateChanger(inputIdCasa, inputEstadoCasa);
+        });
 
     });
-
-});
 
 
 </script>
