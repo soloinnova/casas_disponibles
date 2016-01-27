@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41f84439-a4a9-4e06-b7f4-86a263d48961" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/choacorral.php" afterPath="$PROJECT_DIR$/choacorral.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/functions.php" afterPath="$PROJECT_DIR$/includes/functions.php" />
     </list>
     <ignored path="casas_disponibles.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,8 +27,8 @@
       <file leaf-file-name="choacorral.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/choacorral.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.63734293">
-              <caret line="3064" column="42" selection-start-line="3064" selection-start-column="42" selection-end-line="3064" selection-end-column="42" />
+            <state vertical-scroll-proportion="0.33333334">
+              <caret line="150" column="25" selection-start-line="150" selection-start-column="13" selection-end-line="150" selection-end-column="25" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -133,6 +131,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
@@ -145,7 +145,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1358" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="1358" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25416037" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -194,8 +194,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/choacorral.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.63734293">
-          <caret line="3064" column="42" selection-start-line="3064" selection-start-column="42" selection-end-line="3064" selection-end-column="42" />
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="150" column="25" selection-start-line="150" selection-start-column="13" selection-end-line="150" selection-end-column="25" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>

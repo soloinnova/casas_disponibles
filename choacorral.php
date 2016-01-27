@@ -82,822 +82,822 @@ while($row = $result->fetch_array(MYSQLI_NUM)){
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		764.327,2385.048 764.609,2306.756 611.558,2306.19 611.555,2364.839 703.277,2365.121" id="choacorral11_1"
-             class="casa" estado="<?php displayEstadoAtribute('1', '2'); ?>"
+             class="casa" casa_numero="1" estado="<?php displayEstadoAtribute('1', '2'); ?>"
              proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		764.893,2253.193 611.84,2252.628 611.558,2306.19 764.609,2306.756 	" id="choacorral11_2"
-             class="casa" estado="<?php displayEstadoAtribute('2', '2'); ?>"
+             class="casa" casa_numero="2" estado="<?php displayEstadoAtribute('2', '2'); ?>"
              proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		765.033,2199.634 611.98,2199.068 611.84,2252.628 764.893,2253.193 	" id="choacorral11_3"
-             class="casa" estado="<?php displayEstadoAtribute('3', '2'); ?>"
+             class="casa" casa_numero="3" estado="<?php displayEstadoAtribute('3', '2'); ?>"
              proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		765.176,2146.071 612.264,2145.506 611.98,2199.068 765.033,2199.634 	" id="choacorral11_4"
-             class="casa" estado="<?php displayEstadoAtribute('4', '2'); ?>"
+             class="casa" casa_numero="4" estado="<?php displayEstadoAtribute('4', '2'); ?>"
              proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		765.458,2092.51 612.403,2091.942 612.264,2145.506 765.176,2146.071 	" id="choacorral11_5"
-             class="casa" estado="<?php displayEstadoAtribute('5', '2'); ?>"
+             class="casa" casa_numero="5" estado="<?php displayEstadoAtribute('5', '2'); ?>"
              proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		765.599,2038.947 612.545,2038.383 612.403,2091.942 765.458,2092.51 	" id="choacorral11_6"
-             class="casa" estado="<?php displayEstadoAtribute('6', '2'); ?>"
+             class="casa" casa_numero="6" estado="<?php displayEstadoAtribute('6', '2'); ?>"
              proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		765.741,1985.526 612.829,1984.961 612.545,2038.383 765.599,2038.947 	" id="choacorral11_7"
-             class="casa" estado="<?php displayEstadoAtribute('7', '2'); ?>"
+             class="casa" casa_numero="7" estado="<?php displayEstadoAtribute('7', '2'); ?>"
              proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		766.021,1931.965 612.97,1931.401 612.829,1984.961 765.741,1985.526 	" id="choacorral11_8"
-             class="casa" estado="<?php displayEstadoAtribute('8', '2'); ?>"
+             class="casa" casa_numero="8" estado="<?php displayEstadoAtribute('8', '2'); ?>"
              proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		766.164,1878.404 613.252,1877.839 612.97,1931.401 766.021,1931.965 	" id="choacorral11_9"
-             class="casa" estado="<?php displayEstadoAtribute('9', '2'); ?>"
+             class="casa" casa_numero="9" estado="<?php displayEstadoAtribute('9', '2'); ?>"
              proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		766.447,1824.842 613.394,1824.276 613.252,1877.839 766.447,1877.839 	" id="choacorral11_10"
-             class="casa" estado="<?php displayEstadoAtribute('10', '2'); ?>"
+             class="casa" casa_numero="10" estado="<?php displayEstadoAtribute('10', '2'); ?>"
              proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		766.588,1771.28 613.534,1770.715 613.394,1824.276 766.447,1824.842 	" id="choacorral11_11"
-             class="casa" estado="<?php displayEstadoAtribute('11', '2'); ?>"
+             class="casa" casa_numero="11" estado="<?php displayEstadoAtribute('11', '2'); ?>"
              proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		766.73,1717.718 613.816,1717.154 613.534,1770.715 766.588,1771.28 	" id="choacorral11_12"
-             class="casa" estado="<?php displayEstadoAtribute('12', '2'); ?>"
+             class="casa" casa_numero="12" estado="<?php displayEstadoAtribute('12', '2'); ?>"
              proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		767.013,1664.158 613.958,1663.592 613.816,1717.154 766.73,1717.718 	" id="choacorral11_13"
-             class="casa" estado="<?php displayEstadoAtribute('13', '2'); ?>"
+             class="casa" casa_numero="13" estado="<?php displayEstadoAtribute('13', '2'); ?>"
              proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		767.153,1610.595 614.241,1610.029 613.958,1663.592 767.013,1664.158 	" id="choacorral11_14"
-             class="casa" estado="<?php displayEstadoAtribute('14', '2'); ?>"
+             class="casa" casa_numero="14" estado="<?php displayEstadoAtribute('14', '2'); ?>"
              proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
 
     <rect x="614.382" y="1533.855" transform="matrix(1 0.0037 -0.0037 1 5.7977 -2.5349)" fill="#D8D8D8" stroke="#000000"
           stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="152.914"
-          height="76.457" id="choacorral11_15" class="casa" proyecto="<?php displayProyectoAtribute('2'); ?>"></rect>
+          height="76.457" id="choacorral11_15" class="casa" casa_numero="15" proyecto="<?php displayProyectoAtribute('2'); ?>"></rect>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		537.219,1728.743 537.502,1675.178 384.448,1674.614 384.307,1728.177 	" id="choacorral11_16"
-             class="casa" estado="<?php displayEstadoAtribute('16', '2'); ?>"
+             class="casa" casa_numero="16" estado="<?php displayEstadoAtribute('16', '2'); ?>"
              proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		537.077,1782.305 537.219,1728.743 384.307,1728.177 384.448,1782.305 	" id="choacorral11_17"
-             class="casa" estado="<?php displayEstadoAtribute('17', '2'); ?>"
+             class="casa" casa_numero="17" estado="<?php displayEstadoAtribute('17', '2'); ?>"
              proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		536.796,1835.865 537.077,1782.305 384.448,1782.305 384.024,1835.865 	" id="choacorral11_18"
-             class="casa" estado="<?php displayEstadoAtribute('18', '2'); ?>"
+             class="casa" casa_numero="18" estado="<?php displayEstadoAtribute('18', '2'); ?>"
              proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		536.654,1889.427 536.796,1835.865 384.024,1835.865 383.601,1888.861 	" id="choacorral11_19"
-             class="casa" estado="<?php displayEstadoAtribute('19', '2'); ?>"
+             class="casa" casa_numero="19" estado="<?php displayEstadoAtribute('19', '2'); ?>"
              proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		536.513,1942.989 536.654,1889.427 383.601,1888.861 383.459,1942.424 	" id="choacorral11_20"
-             class="casa" estado="<?php displayEstadoAtribute('20', '2'); ?>"
+             class="casa" casa_numero="20" estado="<?php displayEstadoAtribute('20', '2'); ?>"
              proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		536.229,1996.552 536.513,1942.989 383.459,1942.424 383.318,1995.986 	" id="choacorral11_21"
-             class="casa" estado="<?php displayEstadoAtribute('21', '2'); ?>"
+             class="casa" casa_numero="21" estado="<?php displayEstadoAtribute('21', '2'); ?>"
              proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		536.089,2050.111 536.229,1996.552 383.318,1995.986 383.318,2050.111 	" id="choacorral11_22"
-             class="casa" estado="<?php displayEstadoAtribute('22', '2'); ?>"
+             class="casa" casa_numero="22" estado="<?php displayEstadoAtribute('22', '2'); ?>"
              proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		535.806,2103.674 536.089,2050.111 383.318,2050.111 382.894,2103.108 	" id="choacorral11_23"
-             class="casa" estado="<?php displayEstadoAtribute('23', '2'); ?>"
+             class="casa" casa_numero="23" estado="<?php displayEstadoAtribute('23', '2'); ?>"
              proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		535.665,2157.236 535.806,2103.674 382.894,2103.108 382.894,2157.236 	" id="choacorral11_24"
-             class="casa" estado="<?php displayEstadoAtribute('24', '2'); ?>"
+             class="casa" casa_numero="24" estado="<?php displayEstadoAtribute('24', '2'); ?>"
              proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		535.523,2210.799 535.665,2157.236 382.894,2157.236 382.894,2210.799 	" id="choacorral11_25"
-             class="casa" estado="<?php displayEstadoAtribute('25', '2'); ?>"
+             class="casa" casa_numero="25" estado="<?php displayEstadoAtribute('25', '2'); ?>"
              proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		535.241,2264.359 535.523,2210.799 382.894,2210.799 382.329,2263.795 	" id="choacorral11_26"
-             class="casa" estado="<?php displayEstadoAtribute('26', '2'); ?>"
+             class="casa" casa_numero="26" estado="<?php displayEstadoAtribute('26', '2'); ?>"
              proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		535.1,2317.922 535.241,2264.359 382.47,2264.359 381.623,2317.922 	" id="choacorral11_27"
-             class="casa" estado="<?php displayEstadoAtribute('27', '2'); ?>"
+             class="casa" casa_numero="27" estado="<?php displayEstadoAtribute('27', '2'); ?>"
              proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		534.816,2371.341 535.1,2317.922 381.623,2317.922 381.905,2370.777 	" id="choacorral11_28"
-             class="casa" estado="<?php displayEstadoAtribute('28', '2'); ?>"
+             class="casa" casa_numero="28" estado="<?php displayEstadoAtribute('28', '2'); ?>"
              proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		534.676,2424.903 534.816,2371.341 381.905,2370.777 381.621,2424.903 	" id="choacorral11_29"
-             class="casa" estado="<?php displayEstadoAtribute('29', '2'); ?>"
+             class="casa" casa_numero="29" estado="<?php displayEstadoAtribute('29', '2'); ?>"
              proyecto="<?php displayProyectoAtribute('2'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		932.22,2450.058 932.785,2337.565 779.873,2336.999 779.873,2390.138 823.826,2404.551 904.944,2449.918 	"
-             id="choacorral10_2" class="casa" estado="<?php displayEstadoAtribute('2', '1'); ?>"
+             id="choacorral10_2" class="casa" casa_numero="2" estado="<?php displayEstadoAtribute('2', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		933.068,2284.002 780.014,2283.437 779.873,2336.999 932.785,2337.565 	" id="choacorral10_4"
-             class="casa" estado="<?php displayEstadoAtribute('4', '1'); ?>"
+             class="casa" casa_numero="4" estado="<?php displayEstadoAtribute('4', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		933.209,2230.439 780.156,2229.876 780.014,2283.437 933.068,2284.002 	" id="choacorral10_6"
-             class="casa" estado="<?php displayEstadoAtribute('6', '1'); ?>"
+             class="casa" casa_numero="6" estado="<?php displayEstadoAtribute('6', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		933.352,2176.88 780.438,2176.314 780.2,2229.219 933.209,2230.439 	" id="choacorral10_8"
-             class="casa" estado="<?php displayEstadoAtribute('8', '1'); ?>"
+             class="casa" casa_numero="8" estado="<?php displayEstadoAtribute('8', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		933.635,2123.458 780.579,2122.893 780.438,2176.314 933.352,2176.88 	" id="choacorral10_10"
-             class="casa" estado="<?php displayEstadoAtribute('2', '1'); ?>"
+             class="casa" casa_numero="10" estado="<?php displayEstadoAtribute('2', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		933.775,2069.898 780.862,2069.333 780.579,2122.893 933.775,2122.893 	" id="choacorral10_12"
-             class="casa" estado="<?php displayEstadoAtribute('12', '1'); ?>"
+             class="casa" casa_numero="12" estado="<?php displayEstadoAtribute('12', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		934.059,2016.336 781.003,2015.77 780.862,2069.333 933.775,2069.898 	" id="choacorral10_14"
-             class="casa" estado="<?php displayEstadoAtribute('14', '1'); ?>"
+             class="casa" casa_numero="14" estado="<?php displayEstadoAtribute('14', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		934.199,1962.773 781.146,1962.207 781.003,2015.77 934.059,2016.336 	" id="choacorral10_16"
-             class="casa" estado="<?php displayEstadoAtribute('16', '1'); ?>"
+             class="casa" casa_numero="16" estado="<?php displayEstadoAtribute('16', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		934.342,1909.211 781.428,1908.646 781.146,1962.207 934.199,1962.773 	" id="choacorral10_18"
-             class="casa" estado="<?php displayEstadoAtribute('18', '1'); ?>"
+             class="casa" casa_numero="18" estado="<?php displayEstadoAtribute('18', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		934.622,1855.648 781.568,1855.085 781.428,1908.646 934.342,1909.211 	" id="choacorral10_20"
-             class="casa" estado="<?php displayEstadoAtribute('20', '1'); ?>"
+             class="casa" casa_numero="20" estado="<?php displayEstadoAtribute('20', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		934.765,1802.089 781.852,1801.522 781.568,1855.085 934.622,1855.648 	" id="choacorral10_22"
-             class="casa" estado="<?php displayEstadoAtribute('22', '1'); ?>"
+             class="casa" casa_numero="22" estado="<?php displayEstadoAtribute('22', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		934.765,1748.526 781.991,1747.961 781.852,1801.522 934.765,1802.089 	" id="choacorral10_24"
-             class="casa" estado="<?php displayEstadoAtribute('24', '1'); ?>"
+             class="casa" casa_numero="24" estado="<?php displayEstadoAtribute('24', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		935.188,1694.964 782.135,1694.398 781.991,1747.961 934.765,1748.526 	" id="choacorral10_26"
-             class="casa" estado="<?php displayEstadoAtribute('26', '1'); ?>"
+             class="casa" casa_numero="26" estado="<?php displayEstadoAtribute('26', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		935.33,1641.404 782.418,1640.838 782.135,1694.398 935.188,1694.964 	" id="choacorral10_28"
-             class="casa" estado="<?php displayEstadoAtribute('28', '1'); ?>"
+             class="casa" casa_numero="28" estado="<?php displayEstadoAtribute('28', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		935.611,1587.842 782.559,1587.276 782.418,1640.838 935.33,1641.404 	" id="choacorral10_30"
-             class="casa" estado="<?php displayEstadoAtribute('30', '1'); ?>"
+             class="casa" casa_numero="30" estado="<?php displayEstadoAtribute('30', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		935.753,1496.121 782.983,1495.556 782.559,1587.276 935.611,1587.842 	" id="choacorral10_32"
-             class="casa" estado="<?php displayEstadoAtribute('32', '1'); ?>"
+             class="casa" casa_numero="32" estado="<?php displayEstadoAtribute('32', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
-		1154.522,2383.919 1001.47,2383.353 1001.187,2454.297 1154.239,2454.863 	" id="choacorral10_1" class="casa"
+		1154.522,2383.919 1001.47,2383.353 1001.187,2454.297 1154.239,2454.863 	" id="choacorral10_1" class="casa" casa_numero="1"
              estado="<?php displayEstadoAtribute('1', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		1154.805,2312.833 1001.752,2312.268 1001.47,2383.353 1154.522,2383.919 	" id="choacorral10_3"
-             class="casa" estado="<?php displayEstadoAtribute('3', '1'); ?>"
+             class="casa"  casa_numero="3" estado="<?php displayEstadoAtribute('3', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		1154.948,2259.271 1001.893,2258.705 1001.752,2312.268 1154.805,2312.268 	" id="choacorral10_5"
-             class="casa" estado="<?php displayEstadoAtribute('5', '1'); ?>"
+             class="casa" casa_numero="5" estado="<?php displayEstadoAtribute('5', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		1155.089,2205.708 1002.176,2205.143 1001.893,2258.705 1154.948,2259.271 	" id="choacorral10_7"
-             class="casa" estado="<?php displayEstadoAtribute('7', '1'); ?>"
+             class="casa" casa_numero="7" estado="<?php displayEstadoAtribute('7', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		1155.372,2152.146 1002.316,2151.58 1002.176,2205.143 1155.089,2205.708 	" id="choacorral10_9"
-             class="casa" estado="<?php displayEstadoAtribute('9', '1'); ?>"
+             class="casa" casa_numero="9" estado="<?php displayEstadoAtribute('9', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		1155.514,2098.727 1002.599,2098.161 1002.316,2151.58 1155.372,2152.146 	" id="choacorral10_11"
-             class="casa" estado="<?php displayEstadoAtribute('10', '1'); ?>"
+             class="casa" casa_numero="11" estado="<?php displayEstadoAtribute('10', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		1155.795,2045.164 1002.741,2044.598 1002.599,2098.161 1155.514,2098.727 	" id="choacorral10_13"
-             class="casa" estado="<?php displayEstadoAtribute('13', '1'); ?>"
+             class="casa" casa_numero="13" estado="<?php displayEstadoAtribute('13', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		1155.938,1991.602 1002.882,1991.037 1002.741,2044.598 1155.795,2045.164 	" id="choacorral10_15"
-             class="casa" estado="<?php displayEstadoAtribute('15', '1'); ?>"
+             class="casa" casa_numero="15" estado="<?php displayEstadoAtribute('15', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		1156.078,1938.042 1003.164,1937.476 1002.882,1991.037 1155.938,1991.602 	" id="choacorral10_17"
-             class="casa" estado="<?php displayEstadoAtribute('17', '1'); ?>"
+             class="casa" casa_numero="17" estado="<?php displayEstadoAtribute('17', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		1156.36,1884.479 1003.308,1883.913 1003.164,1937.476 1156.078,1938.042 	" id="choacorral10_19"
-             class="casa" estado="<?php displayEstadoAtribute('19', '1'); ?>"
+             class="casa" casa_numero="19" estado="<?php displayEstadoAtribute('19', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		1156.501,1830.917 1003.589,1830.352 1003.308,1883.913 1156.36,1884.479 	" id="choacorral10_21"
-             class="casa" estado="<?php displayEstadoAtribute('21', '1'); ?>"
+             class="casa" casa_numero="21" estado="<?php displayEstadoAtribute('21', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		1156.783,1777.354 1003.731,1776.791 1003.589,1830.352 1156.501,1830.917 	" id="choacorral10_23"
-             class="casa" estado="<?php displayEstadoAtribute('23', '1'); ?>"
+             class="casa" casa_numero="23" estado="<?php displayEstadoAtribute('23', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		1156.926,1723.794 1003.871,1723.229 1003.731,1776.791 1156.783,1777.354 	" id="choacorral10_25"
-             class="casa" estado="<?php displayEstadoAtribute('25', '1'); ?>"
+             class="casa" casa_numero="25" estado="<?php displayEstadoAtribute('25', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		1157.066,1670.232 1004.154,1669.667 1003.871,1723.229 1156.926,1723.794 	" id="choacorral10_27"
-             class="casa" estado="<?php displayEstadoAtribute('27', '1'); ?>"
+             class="casa" casa_numero="27" estado="<?php displayEstadoAtribute('27', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		1157.35,1616.67 1004.295,1616.104 1004.154,1669.667 1157.066,1670.232 	" id="choacorral10_29"
-             class="casa" estado="<?php displayEstadoAtribute('29', '1'); ?>"
+             class="casa" casa_numero="29" estado="<?php displayEstadoAtribute('29', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		1157.35,1563.108 1004.578,1562.545 1004.295,1616.104 1157.35,1616.67 	" id="choacorral10_31"
-             class="casa" estado="<?php displayEstadoAtribute('31', '1'); ?>"
+             class="casa" casa_numero="1" estado="<?php displayEstadoAtribute('31', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		1157.772,1509.548 1004.72,1508.982 1004.578,1562.545 1157.35,1563.108 	" id="choacorral10_33"
-             class="casa" estado="<?php displayEstadoAtribute('33', '1'); ?>"
+             class="casa" casa_numero="33" estado="<?php displayEstadoAtribute('33', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		1157.915,1455.985 1005.144,1455.985 1004.72,1508.982 1157.772,1509.548 	" id="choacorral10_34"
-             class="casa" estado="<?php displayEstadoAtribute('34', '1'); ?>"
+             class="casa" casa_numero="34" estado="<?php displayEstadoAtribute('34', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		1158.056,1402.423 1005.144,1401.856 1005.144,1455.985 1157.915,1455.985 	" id="choacorral10_35"
-             class="casa" estado="<?php displayEstadoAtribute('35', '1'); ?>"
+             class="casa" casa_numero="35" estado="<?php displayEstadoAtribute('35', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		1158.338,1348.86 1005.283,1348.438 1005.144,1401.856 1158.056,1402.423 	" id="choacorral10_36"
-             class="casa" estado="<?php displayEstadoAtribute('36', '1'); ?>"
+             class="casa" casa_numero="36" estado="<?php displayEstadoAtribute('36', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		1158.48,1295.44 1005.566,1294.876 1005.283,1348.438 1158.338,1348.86 	" id="choacorral10_37"
-             class="casa" estado="<?php displayEstadoAtribute('37', '1'); ?>"
+             class="casa" casa_numero="37" estado="<?php displayEstadoAtribute('37', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		1158.762,1241.88 1005.709,1241.314 1005.566,1294.876 1158.48,1295.44 	" id="choacorral10_38"
-             class="casa" estado="<?php displayEstadoAtribute('38', '1'); ?>"
+             class="casa" casa_numero="38" estado="<?php displayEstadoAtribute('38', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		1158.904,1188.317 1005.85,1187.753 1005.709,1241.314 1158.762,1241.88 	" id="choacorral10_39"
-             class="casa" estado="<?php displayEstadoAtribute('39', '1'); ?>"
+             class="casa" casa_numero="39" estado="<?php displayEstadoAtribute('39', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		1159.044,1134.757 1006.132,1134.189 1005.85,1187.753 1158.904,1188.317 	" id="choacorral10_41"
-             class="casa" estado="<?php displayEstadoAtribute('41', '1'); ?>"
+             class="casa" casa_numero="41" estado="<?php displayEstadoAtribute('41', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		1159.327,1081.193 1006.274,1080.911 1006.132,1134.189 1159.044,1134.757 	" id="choacorral10_43"
-             class="casa" estado="<?php displayEstadoAtribute('43', '1'); ?>"
+             class="casa" casa_numero="43" estado="<?php displayEstadoAtribute('43', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		1159.47,1027.632 1006.556,1027.066 1006.274,1080.911 1159.327,1081.193 	" id="choacorral10_45"
-             class="casa" estado="<?php displayEstadoAtribute('45', '1'); ?>"
+             class="casa" casa_numero="45" estado="<?php displayEstadoAtribute('45', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		1159.75,974.07 1006.697,973.506 1006.556,1027.066 1159.47,1027.632 	" id="choacorral10_47"
-             class="casa" estado="<?php displayEstadoAtribute('47', '1'); ?>"
+             class="casa" casa_numero="47" estado="<?php displayEstadoAtribute('47', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		1159.893,920.509 1006.838,919.943 1006.697,973.506 1159.75,974.07 	" id="choacorral10_49"
-             class="casa" estado="<?php displayEstadoAtribute('49', '1'); ?>"
+             class="casa" casa_numero="21" estado="<?php displayEstadoAtribute('49', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		1160.033,866.946 1007.121,866.382 1006.838,919.943 1159.893,920.509 	" id="choacorral10_51"
-             class="casa" estado="<?php displayEstadoAtribute('51', '1'); ?>"
+             class="casa" casa_numero="51" estado="<?php displayEstadoAtribute('51', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		1160.317,813.386 1007.265,812.82 1007.121,866.382 1160.033,866.946 	" id="choacorral10_53"
-             class="casa" estado="<?php displayEstadoAtribute('53', '1'); ?>"
+             class="casa" casa_numero="53" estado="<?php displayEstadoAtribute('53', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		1160.46,759.823 1007.404,759.259 1007.265,812.82 1160.317,813.386 	" id="choacorral10_55"
-             class="casa" estado="<?php displayEstadoAtribute('55', '1'); ?>"
+             class="casa" casa_numero="55" estado="<?php displayEstadoAtribute('55', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		1160.74,706.263 1007.688,705.695 1007.404,759.259 1160.46,759.823 	" id="choacorral10_57"
-             class="casa" estado="<?php displayEstadoAtribute('57', '1'); ?>"
+             class="casa" casa_numero="57" estado="<?php displayEstadoAtribute('57', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		1160.883,652.7 1007.828,652.135 1007.688,705.695 1160.74,706.263 	" id="choacorral10_59"
-             class="casa" estado="<?php displayEstadoAtribute('59', '1'); ?>"
+             class="casa" casa_numero="59" estado="<?php displayEstadoAtribute('59', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		1161.023,599.138 1008.111,598.572 1007.828,652.135 1160.883,652.7 	" id="choacorral10_61"
-             class="casa" estado="<?php displayEstadoAtribute('61', '1'); ?>"
+             class="casa" casa_numero="61" estado="<?php displayEstadoAtribute('61', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		1161.306,545.717 1008.254,545.153 1008.111,598.572 1161.023,599.138 	" id="choacorral10_63"
-             class="casa" estado="<?php displayEstadoAtribute('63', '1'); ?>"
+             class="casa" casa_numero="63" estado="<?php displayEstadoAtribute('63', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		936.885,1243.858 937.165,1168.957 784.113,1168.392 783.973,1221.952 	" id="choacorral10_40"
-             class="casa" estado="<?php displayEstadoAtribute('40', '1'); ?>"
+             class="casa" casa_numero="40" estado="<?php displayEstadoAtribute('40', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		937.308,1115.395 784.253,1114.829 784.113,1168.392 937.165,1168.957 	" id="choacorral10_42"
-             class="casa" estado="<?php displayEstadoAtribute('42', '1'); ?>"
+             class="casa" casa_numero="42" estado="<?php displayEstadoAtribute('42', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		937.448,1061.833 784.536,1061.269 784.253,1114.829 937.308,1115.395 	" id="choacorral10_44"
-             class="casa" estado="<?php displayEstadoAtribute('44', '1'); ?>"
+             class="casa" casa_numero="44" estado="<?php displayEstadoAtribute('44', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		937.731,1008.271 784.679,1007.706 784.536,1061.269 937.448,1061.833 	" id="choacorral10_46"
-             class="casa" estado="<?php displayEstadoAtribute('46', '1'); ?>"
+             class="casa" casa_numero="46" estado="<?php displayEstadoAtribute('46', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		937.873,954.709 784.961,954.145 784.679,1007.706 937.731,1008.271 	" id="choacorral10_48"
-             class="casa" estado="<?php displayEstadoAtribute('48', '1'); ?>"
+             class="casa" casa_numero="48" estado="<?php displayEstadoAtribute('48', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		938.154,901.148 785.102,900.583 784.961,954.145 937.873,954.709 	" id="choacorral10_50"
-             class="casa" estado="<?php displayEstadoAtribute('50', '1'); ?>"
+             class="casa" casa_numero="50" estado="<?php displayEstadoAtribute('50', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		938.297,847.586 785.242,847.021 785.102,900.583 938.154,901.148 	" id="choacorral10_52"
-             class="casa" estado="<?php displayEstadoAtribute('52', '1'); ?>"
+             class="casa" casa_numero="52" estado="<?php displayEstadoAtribute('52', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
-		938.438,794.167 785.525,793.6 785.242,847.021 938.297,847.586 	" id="choacorral10_54" class="casa"
+		938.438,794.167 785.525,793.6 785.242,847.021 938.297,847.586 	" id="choacorral10_54" class="casa" casa_numero="54"
              estado="<?php displayEstadoAtribute('54', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
-		938.72,740.604 785.667,740.039 785.525,793.6 938.438,794.167 	" id="choacorral10_56" class="casa"
+		938.72,740.604 785.667,740.039 785.525,793.6 938.438,794.167 	" id="choacorral10_56" class="casa" casa_numero="56"
              estado="<?php displayEstadoAtribute('56', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
-		938.863,687.042 785.95,686.477 785.667,740.039 938.72,740.604 	" id="choacorral10_58" class="casa"
+		938.863,687.042 785.95,686.477 785.667,740.039 938.72,740.604 	" id="choacorral10_58" class="casa" casa_numero="58"
              estado="<?php displayEstadoAtribute('58', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
-		939.143,633.48 786.091,632.915 785.95,686.477 938.863,687.042 	" id="choacorral10_60" class="casa"
+		939.143,633.48 786.091,632.915 785.95,686.477 938.863,687.042 	" id="choacorral10_60" class="casa" casa_numero="60"
              estado="<?php displayEstadoAtribute('60', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
-		939.143,579.919 786.23,579.354 786.091,632.915 939.143,633.48 	" id="choacorral10_62" class="casa"
+		939.143,579.919 786.23,579.354 786.091,632.915 939.143,633.48 	" id="choacorral10_62" class="casa" casa_numero="62"
              estado="<?php displayEstadoAtribute('62', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		939.569,503.885 786.514,503.321 786.23,579.354 939.143,579.919 	" id="choacorral10_64"
-             class="casa" estado="<?php displayEstadoAtribute('64', '1'); ?>"
+             class="casa" casa_numero="64" estado="<?php displayEstadoAtribute('64', '1'); ?>"
              proyecto="<?php displayProyectoAtribute('1'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		768.568,1219.7 768.85,1145.921 615.936,1145.355 615.654,1197.786 	" id="choacorral11w_1"
-             class="casa" estado="<?php displayEstadoAtribute('1', '3'); ?>"
+             class="casa" casa_numero="1" estado="<?php displayEstadoAtribute('1', '3'); ?>"
              proyecto="<?php displayProyectoAtribute('3'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		769.132,1092.359 616.077,1091.794 615.936,1145.355 768.85,1145.921 	" id="choacorral11w_2"
-             class="casa" estado="<?php displayEstadoAtribute('2', '3'); ?>"
+             class="casa" casa_numero="2" estado="<?php displayEstadoAtribute('2', '3'); ?>"
              proyecto="<?php displayProyectoAtribute('3'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		769.274,1038.798 616.361,1038.233 616.077,1091.794 769.132,1092.359 	" id="choacorral11w_3"
-             class="casa" estado="<?php displayEstadoAtribute('3', '3'); ?>"
+             class="casa" casa_numero="3" estado="<?php displayEstadoAtribute('3', '3'); ?>"
              proyecto="<?php displayProyectoAtribute('3'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		769.415,985.236 616.503,984.671 616.361,1038.233 769.274,1038.798 	" id="choacorral11w_4"
-             class="casa" estado="<?php displayEstadoAtribute('4', '3'); ?>"
+             class="casa" casa_numero="4" estado="<?php displayEstadoAtribute('4', '3'); ?>"
              proyecto="<?php displayProyectoAtribute('3'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		769.697,931.674 616.645,931.108 616.503,984.671 769.415,985.236 	" id="choacorral11w_5"
-             class="casa" estado="<?php displayEstadoAtribute('5', '3'); ?>"
+             class="casa" casa_numero="5"  estado="<?php displayEstadoAtribute('5', '3'); ?>"
              proyecto="<?php displayProyectoAtribute('3'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		769.838,878.113 616.927,877.548 616.645,931.108 769.697,931.674 	" id="choacorral11w_6"
-             class="casa" estado="<?php displayEstadoAtribute('6', '3'); ?>"
+             class="casa" casa_numero="6" estado="<?php displayEstadoAtribute('6', '3'); ?>"
              proyecto="<?php displayProyectoAtribute('3'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		770.121,824.551 617.068,823.985 616.927,877.548 769.838,878.113 	" id="choacorral11w_7"
-             class="casa" estado="<?php displayEstadoAtribute('7', '3'); ?>"
+             class="casa" casa_numero="7" estado="<?php displayEstadoAtribute('7', '3'); ?>"
              proyecto="<?php displayProyectoAtribute('3'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		770.264,770.99 617.351,770.424 617.068,823.985 770.121,824.551 	" id="choacorral11w_8"
-             class="casa" estado="<?php displayEstadoAtribute('8', '3'); ?>"
+             class="casa" casa_numero="8" estado="<?php displayEstadoAtribute('8', '3'); ?>"
              proyecto="<?php displayProyectoAtribute('3'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		770.403,717.427 617.491,716.861 617.351,770.424 770.264,770.99 	" id="choacorral11w_9"
-             class="casa" estado="<?php displayEstadoAtribute('9', '3'); ?>"
+             class="casa" casa_numero="9" estado="<?php displayEstadoAtribute('9', '3'); ?>"
              proyecto="<?php displayProyectoAtribute('3'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		770.687,663.865 617.633,663.3 617.491,716.861 770.403,717.427 	" id="choacorral11w_10"
-             class="casa" estado="<?php displayEstadoAtribute('10', '3'); ?>"
+             class="casa" casa_numero="10" estado="<?php displayEstadoAtribute('10', '3'); ?>"
              proyecto="<?php displayProyectoAtribute('3'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		770.827,610.304 617.916,609.738 617.633,663.3 770.687,663.865 	" id="choacorral11w_11"
-             class="casa" estado="<?php displayEstadoAtribute('11', '3'); ?>"
+             class="casa" casa_numero="11" estado="<?php displayEstadoAtribute('11', '3'); ?>"
              proyecto="<?php displayProyectoAtribute('3'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		771.109,556.742 618.058,556.177 617.916,609.738 770.827,610.304 	" id="choacorral11w_12"
-             class="casa" estado="<?php displayEstadoAtribute('12', '3'); ?>"
+             class="casa" casa_numero="12" estado="<?php displayEstadoAtribute('12', '3'); ?>"
              proyecto="<?php displayProyectoAtribute('3'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		771.252,503.18 618.197,502.614 618.058,556.177 771.109,556.742 	" id="choacorral11w_13"
-             class="casa" estado="<?php displayEstadoAtribute('13', '3'); ?>"
+             class="casa" casa_numero="13" estado="<?php displayEstadoAtribute('13', '3'); ?>"
              proyecto="<?php displayProyectoAtribute('3'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		771.393,449.619 618.48,449.053 618.197,502.614 771.252,503.18 	" id="choacorral11w_14"
-             class="casa" estado="<?php displayEstadoAtribute('14', '3'); ?>"
+             class="casa" casa_numero="14" estado="<?php displayEstadoAtribute('14', '3'); ?>"
              proyecto="<?php displayProyectoAtribute('3'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		771.676,396.198 618.622,395.632 618.48,449.053 771.393,449.619 	" id="choacorral11w_15"
-             class="casa" estado="<?php displayEstadoAtribute('15', '3'); ?>"
+             class="casa" casa_numero="15" estado="<?php displayEstadoAtribute('15', '3'); ?>"
              proyecto="<?php displayProyectoAtribute('3'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		554.886,1098.718 402.115,1098.718 401.69,1151.714 554.603,1189.025 	" id="choacorral11wA1_1"
-             class="casa" estado="<?php displayEstadoAtribute('1', '4'); ?>"
+             class="casa" casa_numero="1" estado="<?php displayEstadoAtribute('1', '4'); ?>"
              proyecto="<?php displayProyectoAtribute('4'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		555.027,1045.155 402.115,1044.591 402.115,1098.718 554.886,1098.718 	" id="choacorral11wA1_2"
-             class="casa" estado="<?php displayEstadoAtribute('2', '4'); ?>"
+             class="casa" casa_numero="2" estado="<?php displayEstadoAtribute('2', '4'); ?>"
              proyecto="<?php displayProyectoAtribute('4'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		555.31,991.595 402.255,991.028 402.115,1044.591 555.027,1045.155 	" id="choacorral11wA1_3"
-             class="casa" estado="<?php displayEstadoAtribute('3', '4'); ?>"
+             class="casa" casa_numero="3" estado="<?php displayEstadoAtribute('3', '4'); ?>"
              proyecto="<?php displayProyectoAtribute('4'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		555.45,938.032 402.396,937.468 402.255,991.028 555.31,991.595 	" id="choacorral11wA1_4"
-             class="casa" estado="<?php displayEstadoAtribute('4', '4'); ?>"
+             class="casa" casa_numero="4" estado="<?php displayEstadoAtribute('4', '4'); ?>"
              proyecto="<?php displayProyectoAtribute('4'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		555.592,884.471 402.68,883.905 402.396,937.468 555.45,938.032 	" id="choacorral11wA1_5"
-             class="casa" estado="<?php displayEstadoAtribute('5', '4'); ?>"
+             class="casa" casa_numero="5" estado="<?php displayEstadoAtribute('5', '4'); ?>"
              proyecto="<?php displayProyectoAtribute('4'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		555.874,830.909 402.821,830.343 402.68,883.905 555.592,884.471 	" id="choacorral11wA1_6"
-             class="casa" estado="<?php displayEstadoAtribute('6', '4'); ?>"
+             class="casa" casa_numero="6" estado="<?php displayEstadoAtribute('6', '4'); ?>"
              proyecto="<?php displayProyectoAtribute('4'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		556.016,777.348 403.104,776.781 402.821,830.343 555.874,830.909 	" id="choacorral11wA1_7"
-             class="casa" estado="<?php displayEstadoAtribute('7', '4'); ?>"
+             class="casa" casa_numero="7" estado="<?php displayEstadoAtribute('7', '4'); ?>"
              proyecto="<?php displayProyectoAtribute('4'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		556.3,723.926 403.245,723.361 403.104,776.781 556.016,777.348 	" id="choacorral11wA1_8"
-             class="casa" estado="<?php displayEstadoAtribute('8', '4'); ?>"
+             class="casa" casa_numero="8" estado="<?php displayEstadoAtribute('8', '4'); ?>"
              proyecto="<?php displayProyectoAtribute('4'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		556.44,670.365 403.104,670.365 403.245,723.361 556.3,723.926 	" id="choacorral11wA1_9"
-             class="casa" estado="<?php displayEstadoAtribute('9', '4'); ?>"
+             class="casa" casa_numero="9" estado="<?php displayEstadoAtribute('9', '4'); ?>"
              proyecto="<?php displayProyectoAtribute('4'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		556.582,616.803 403.668,616.237 403.104,670.365 556.44,670.365 	" id="choacorral11wA1_10"
-             class="casa" estado="<?php displayEstadoAtribute('10', '4'); ?>"
+             class="casa" casa_numero="10" estado="<?php displayEstadoAtribute('10', '4'); ?>"
              proyecto="<?php displayProyectoAtribute('4'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		556.864,563.242 403.81,562.676 403.668,616.237 556.582,616.803 	" id="choacorral11wA1_11"
-             class="casa" estado="<?php displayEstadoAtribute('11', '4'); ?>"
+             class="casa" casa_numero="11" estado="<?php displayEstadoAtribute('11', '4'); ?>"
              proyecto="<?php displayProyectoAtribute('4'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		557.57,364.823 403.951,530.879 403.81,562.676 556.864,563.242 	" id="choacorral11wA1_12"
-             class="casa" estado="<?php displayEstadoAtribute('12', '4'); ?>"
+             class="casa" casa_numero="12" estado="<?php displayEstadoAtribute('12', '4'); ?>"
              proyecto="<?php displayProyectoAtribute('4'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		939.853,286.246 857.319,433.082 903.955,459.227 986.631,312.533 	" id="choacorral11wA1_17"
-             class="casa" estado="<?php displayEstadoAtribute('17', '4'); ?>"
+             class="casa" casa_numero="17" estado="<?php displayEstadoAtribute('17', '4'); ?>"
              proyecto="<?php displayProyectoAtribute('4'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		893.267,259.953 810.664,406.676 857.319,433.082 939.853,286.246 	" id="choacorral11wA1_16"
-             class="casa" estado="<?php displayEstadoAtribute('16', '4'); ?>"
+             class="casa" casa_numero="16" estado="<?php displayEstadoAtribute('16', '4'); ?>"
              proyecto="<?php displayProyectoAtribute('4'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		846.58,233.673 763.904,380.51 810.664,406.676 893.267,259.953 	" id="choacorral11wA1_15"
-             class="casa" estado="<?php displayEstadoAtribute('15', '4'); ?>"
+             class="casa" casa_numero="15" estado="<?php displayEstadoAtribute('15', '4'); ?>"
              proyecto="<?php displayProyectoAtribute('4'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		799.94,207.529 717.267,354.223 763.904,380.51 846.58,233.673 	" id="choacorral11wA1_14"
-             class="casa" estado="<?php displayEstadoAtribute('14', '4'); ?>"
+             class="casa" casa_numero="14" estado="<?php displayEstadoAtribute('14', '4'); ?>"
              proyecto="<?php displayProyectoAtribute('4'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		753.304,181.243 741.999,201.169 718.68,188.026 618.199,298.259 717.267,354.223 799.94,207.529 	"
-             id="choacorral11wA1_13" class="casa" estado="<?php displayEstadoAtribute('13', '4'); ?>"
+             id="choacorral11wA1_13" class="casa" casa_numero="13" estado="<?php displayEstadoAtribute('13', '4'); ?>"
              proyecto="<?php displayProyectoAtribute('4'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		310.113,1077.095 118.901,1076.389 119.038,1152.873 309.83,1153.552 	" id="choacorral11wA2_30"
-             class="casa" estado="<?php displayEstadoAtribute('13', '5'); ?>"
+             class="casa" casa_numero="30" estado="<?php displayEstadoAtribute('13', '5'); ?>"
              proyecto="<?php displayProyectoAtribute('5'); ?>"></polygon>
 
     <rect x="119.042" y="1000.144" transform="matrix(1 0.0037 -0.0037 1 3.8359 -0.7855)" fill="#D8D8D8" stroke="#000000"
           stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="191.213"
-          height="76.598" id="choacorral11wA2_29" class="casa" estado="<?php displayEstadoAtribute('12', '5'); ?>"
+          height="76.598" id="choacorral11wA2_29" class="casa" casa_numero="29" estado="<?php displayEstadoAtribute('12', '5'); ?>"
           proyecto="<?php displayProyectoAtribute('5'); ?>"></rect>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		311.03,924.041 119.891,924.041 119.184,999.791 310.396,1000.497 	" id="choacorral11wA2_28"
-             class="casa" estado="<?php displayEstadoAtribute('11', '5'); ?>"
+             class="casa" casa_numero="28" estado="<?php displayEstadoAtribute('11', '5'); ?>"
              proyecto="<?php displayProyectoAtribute('5'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		310.96,847.585 119.75,846.878 119.467,923.335 311.03,924.041 	" id="choacorral11wA2_27"
-             class="casa" estado="<?php displayEstadoAtribute('10', '5'); ?>"
+             class="casa" casa_numero="27" estado="<?php displayEstadoAtribute('10', '5'); ?>"
              proyecto="<?php displayProyectoAtribute('5'); ?>"></polygon>
 
     <rect x="119.89" y="770.634" transform="matrix(1 0.0037 -0.0037 1 2.9926 -0.7913)" fill="#D8D8D8" stroke="#000000"
           stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="191.213"
-          height="76.598" id="choacorral11wA2_26" class="casa" estado="<?php displayEstadoAtribute('9', '5'); ?>"
+          height="76.598" id="choacorral11wA2_26" class="casa" casa_numero="26" estado="<?php displayEstadoAtribute('9', '5'); ?>"
           proyecto="<?php displayProyectoAtribute('5'); ?>"></rect>
 
     <rect x="120.173" y="694.177" transform="matrix(1 0.0037 -0.0037 1 2.7096 -0.7928)" fill="#D8D8D8" stroke="#000000"
           stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="191.213"
-          height="76.457" id="choacorral11wA2_25" class="casa" estado="<?php displayEstadoAtribute('8', '5'); ?>"
+          height="76.457" id="choacorral11wA2_25" class="casa" casa_numero="25" estado="<?php displayEstadoAtribute('8', '5'); ?>"
           proyecto="<?php displayProyectoAtribute('5'); ?>"></rect>
 
     <rect x="120.456" y="617.721" transform="matrix(1 0.0037 -0.0037 1 2.4303 -0.7955)" fill="#D8D8D8" stroke="#000000"
           stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="191.212"
-          height="76.458" id="choacorral11wA2_24" class="casa" estado="<?php displayEstadoAtribute('7', '5'); ?>"
+          height="76.458" id="choacorral11wA2_24" class="casa" casa_numero="24" estado="<?php displayEstadoAtribute('7', '5'); ?>"
           proyecto="<?php displayProyectoAtribute('5'); ?>"></rect>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		312.091,541.478 120.879,540.77 121.162,617.367 311.808,618.075 	" id="choacorral11wA2_23"
-             class="casa" estado="<?php displayEstadoAtribute('6', '5'); ?>"
+             class="casa" casa_numero="23" estado="<?php displayEstadoAtribute('6', '5'); ?>"
              proyecto="<?php displayProyectoAtribute('5'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		318.875,465.02 157.765,393.369 121.162,475.62 120.879,540.77 312.091,541.478 312.373,472.087 	"
-             id="choacorral11wA2_22" class="casa" estado="<?php displayEstadoAtribute('5', '5'); ?>"
+             id="choacorral11wA2_22" class="casa" casa_numero="22" estado="<?php displayEstadoAtribute('5', '5'); ?>"
              proyecto="<?php displayProyectoAtribute('5'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		373.85,405.806 188.857,323.414 157.765,393.369 318.875,465.02 	" id="choacorral11wA2_21"
-             class="casa" estado="<?php displayEstadoAtribute('4', '5'); ?>"
+             class="casa" casa_numero="21" estado="<?php displayEstadoAtribute('4', '5'); ?>"
              proyecto="<?php displayProyectoAtribute('5'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		428.825,346.449 219.948,253.458 188.857,323.414 373.85,405.806 	" id="choacorral11wA2_20"
-             class="casa" estado="<?php displayEstadoAtribute('3', '5'); ?>"
+             class="casa" casa_numero="20" estado="<?php displayEstadoAtribute('3', '5'); ?>"
              proyecto="<?php displayProyectoAtribute('5'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		483.517,287.093 251.039,183.644 219.948,253.458 428.825,346.449 	" id="choacorral11wA2_19"
-             class="casa" estado="<?php displayEstadoAtribute('2', '5'); ?>"
+             class="casa" casa_numero="19" estado="<?php displayEstadoAtribute('2', '5'); ?>"
              proyecto="<?php displayProyectoAtribute('5'); ?>"></polygon>
 
     <polygon fill="#D8D8D8" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"
              stroke-miterlimit="10" points="
 		641.094,114.114 403.527,140.965 258.105,167.958 251.039,183.644 483.517,287.093 	" id="choacorral11wA2_18"
-             class="casa" estado="<?php displayEstadoAtribute('1', '5'); ?>"
+             class="casa" casa_numero="18" estado="<?php displayEstadoAtribute('1', '5'); ?>"
              proyecto="<?php displayProyectoAtribute('5'); ?>"></polygon>
 </g>
         <g id="Layer_3">
@@ -3061,8 +3061,10 @@ while($row = $result->fetch_array(MYSQLI_NUM)){
 
         $(".casa").click(function () {
             var proyecto =$(this).attr("proyecto");
+            var casaNumero = $(this).attr("casa_numero");
 
             $("#ctrFormProyectoInput").val(proyecto);
+            $("#ctrFormCaasaNoInput").val(casaNumero);
             $("#myModal").modal(open);
             var AttrColor = $(this).attr("fill");
             newColor = toggleState(AttrColor);
